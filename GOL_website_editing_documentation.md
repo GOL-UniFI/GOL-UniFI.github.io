@@ -1,12 +1,12 @@
-⚠️ This guide was AI-generated and then corrected manually. If you spot any mistakes or improvement points, please feel free to edit this documentation :) 
+⚠️ This guide was AI-generated and then corrected manually by Dr. Roberto Verdecchia. If you spot any mistakes or improvement points, please feel free to edit this documentation :) 
 
-## **Editing Content and Adding Posts on the STLab webpage via GitHub Web Interface**
+## **Editing Content and Adding Posts on the GOL webpage via GitHub Web Interface**
 
 ### **Step-by-Step Guide**
 
 #### **1\. Access the Repository**
 
-* **Navigate to the website repository:** [https://github.com/STLab-UniFI/STLab-UniFI.github.io](https://github.com/STLab-UniFI/STLab-UniFI.github.io)  
+* **Navigate to the website repository:** [https://github.com/GOL-UniFI/GOL-UniFI.github.io](https://github.com/GOL-UniFI/GOL-UniFI.github.io)  
 * **Login to GitHub**: Log in with your credentials in the upper-right corner.  
 * **Request Access**: If you don’t have edit access to the repository, request an invite from the repository owner *via* the web interface.
 
@@ -79,13 +79,13 @@ If you’re working on a fork or a branch, create a pull request to merge your c
 * Clone the repository to your local machine using the command:
 
 ```
-git clone https://github.com/STLab-UniFI/STLab-UniFI.github.io.git
+git clone https://github.com/GOL-UniFI/GOL-UniFI.github.io.git
 ```
 
 * Navigate into the website repository directory:
 
 ```
-cd STLab-UniFI.github.io
+cd GOL-UniFI.github.io
 ```
 
   #### **2\. Install Jekyll and Dependencies**

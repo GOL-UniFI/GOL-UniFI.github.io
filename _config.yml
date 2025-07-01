@@ -6,14 +6,14 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://STLab-UniFI.github.io" 
+url: "https://GOL-UniFI.github.io" 
 baseurl: ""
 
 # Name of website
-title: "Software Technologies Lab"
+title: "Global Optimization Laboratory"
 
 # Short description of your site
-rss-description: "Software Technologies Lab • University of Florence"
+rss-description: "Global Optimization Laboratory • University of Florence"
 
 # --- Navigation bar options --- #
 
@@ -39,7 +39,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: /assets/img/logo_STLab.png
+title-img: /assets/img/
 
 # --- Background colour/image options --- #
 

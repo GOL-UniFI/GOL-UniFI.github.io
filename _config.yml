@@ -142,10 +142,10 @@ site-js:
 # --- Footer options --- #
 
 # Your name to show in the footer
-author: "Software Technologies Lab • University of Florence"
+author: "Global Optimization Laboratory • University of Florence"
 
 # favicon location
-# favicon: "/img/logos/favicon.png"
+favicon: "/img/logos/garland_GOL_logo.jpg"
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.

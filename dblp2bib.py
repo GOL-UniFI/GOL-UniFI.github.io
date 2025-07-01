@@ -31,7 +31,7 @@ def save_bibtex(bib_data, filename):
         bibfile.write(bib_data.to_string('bibtex'))
 
 if __name__ == "__main__":
-    author_ids = ["94/10257", "50/3792", "214/2069", "380/5383", "380/5231", "225/6724", "377/9232", "77/5805", "f/AlessandroFantechi", "195/3412", "169/4171", "290/3983"]
+    author_ids = ["94/10257", "86/4956", "00/4209", "254/2545", "256/8670", "338/6626", "324/5142", "283/0920", "34/1490"]
     bibtex_entries = download_bibtex(author_ids)
     merged_bib = merge_bibtex(bibtex_entries)
     save_bibtex(merged_bib, "STLab.bib")

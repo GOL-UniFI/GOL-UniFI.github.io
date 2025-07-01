@@ -155,8 +155,8 @@ social-network-links:
   rss: true
   # email: "someone@example.com"
   # facebook: daattali
-  github: STLab-UniFI
-  twitter: STLabUniFI
+  github: GOL-UniFI
+#  twitter: GOLUniFI
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -173,10 +173,10 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   google: false
-  linkedin: true
+  linkedin: false
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page

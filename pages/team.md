@@ -118,11 +118,7 @@ team:
 
 # Scientific Collaborators
 - [Prof. Fabio Schoen]( )
-  
-<!-- 
-- [Prof. András Horváth](http://www.di.unito.it/~horvath/)
-- [Prof. Romano Fantacci](https://romanofantacci.com/) -->
-  
+ 
 <!--
 # Former Members
 - ? [e.g., former graduated Ph.D. Student]

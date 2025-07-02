@@ -2,6 +2,7 @@
 layout: page
 title: Team
 <!-- subtitle: X  -->
+---
 
 team:
   - name: Prof. Fabio Tardella

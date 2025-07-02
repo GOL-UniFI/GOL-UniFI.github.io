@@ -10,7 +10,7 @@ We aim to solutions that not only advance the field of optimization but also hav
 <!-- Keenly interested in technology transfer, we keep thigh bonds with industrial partners to ensure a continuous and fruitful knowledge exchange between academia and industry.--> 
 
 ## Focus
-<h2>Our <strong>research</strong> is actively being conducted in the following areas:</h2>
+Our research is actively being conducted in the following areas:
 
 <div class="row" style="margin-top: 2rem; row-gap: 2rem; display: flex; flex-wrap: wrap; justify-content: space-between;">
   

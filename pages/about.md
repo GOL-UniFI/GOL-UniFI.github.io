@@ -27,6 +27,8 @@ Our **research** is actively being conducted in the following areas:
 </div>
 <br />
 </div>
+
+<!--
  
 ## Some Application areas and Partners
 
@@ -48,3 +50,4 @@ Our **research** is actively being conducted in the following areas:
 
 **Industry-academia conjunct laboratory**
  - [SWARM Lab](https://swarmlab.dinfo.unifi.it/home)
+ -->

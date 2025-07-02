@@ -11,26 +11,20 @@ Keenly interested in technology transfer, we keep thigh bonds with industrial pa
 Our vision is to strive towards formally-proven, evidence-based, and data-driven software engineering solutions, with which we can jointly progress towards higher-quality, more performant, and more sustainable software.
 
 ## Focus
-Our **focus** is on the following scientific areas of interest:
+Our **focus** is in the development of optimization models and algorithms. In particular, research is actively being conducted in the following areas:
 <div class="row ">
   <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
-  <div style="text-align: center;"><span class="fa fa-clock-o icon_bg icon_square"></span><div>Analysis and design of real-time systems
+  <div style="text-align: center;"><span class="fa fa-clock-o icon_bg icon_square"></span><div> nonlinear unconstrained and constrained optimization
   </div></div>
 </div>
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
-<div style="text-align: center;"><span class="fa fa fa-arrows-alt icon_square"></span><div>Edge to Cloud Computing</div></div>
+<div style="text-align: center;"><span class="fa fa fa-arrows-alt icon_square"></span><div> multi-objective optimization </div></div>
 </div>
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
-  <div style="text-align: center;"><span class="fa fa-dashboard icon_bg icon_square"></span><div>Stochastic modeling and quantitative evaluation</div></div>
+  <div style="text-align: center;"><span class="fa fa-dashboard icon_bg icon_square"></span><div> operations research health-care management </div></div>
   </div>
   <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
-  <div style="text-align: center;"><span class="fa a fa-flask icon_square"></span><div>Empirical Software Engineering</div></div>
-</div>
-<div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
-  <div style="text-align: center;"><span class="fa fa-cubes icon_bg icon_square"></span><div>Software Architectures</div></div>
-  </div>
-  <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
-  <div style="text-align: center;"><span class="fa fa-train icon_bg icon_square"></span><div>Safery-critical Systems</div></div>
+  <div style="text-align: center;"><span class="fa a fa-flask icon_square"></span><div>mixed integer programming</div></div>
 </div>
 <br />
 </div>

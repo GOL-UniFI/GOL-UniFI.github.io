@@ -3,65 +3,95 @@ layout: page
 title: Team
 <!-- subtitle: X  -->
 team:
-  - name: Prof. Dr. Enrico Vicario
-    img: /img/people/enrico.png
+  - name: Prof. Dr. Fabio Tardella
+    img: /img/people/fabio.png
     desc: Full Professor
-    website: https://stlab.dinfo.unifi.it/vicario/
-    url: https://stlab.dinfo.unifi.it/vicario/
+    website:  
+    url:
+    github:  
+    linkedin:   
+    <!-- website: https://stlab.dinfo.unifi.it/vicario/
+    url: https://stlab.dinfo.unifi.it/vicario/-->
 
-  - name: Prof. Dr. Alessanrdo Fantechi
-    img: /img/people/alessandro.png
-    desc: Full Professor
-    website: https://stlab.dinfo.unifi.it/fantechi/
-    url: https://stlab.dinfo.unifi.it/fantechi/
-
-
-  - name: Prof. Dr. Laura Carnevali
-    img: /img/people/laura.png
+  - name: Prof. Dr. Paola Cappanera
+    img: /img/people/paola.png
     desc: Associate Professor
-    website: https://stlab.dinfo.unifi.it/carnevali/ 
-    url: https://stlab.dinfo.unifi.it/carnevali/ 
+    website:  
+    url:
+    github:  
+    linkedin:  
 
-  - name: Dr. Dr. Roberto Verdecchia
-    img: /img/people/roberto.png
+  - name: Prof. Dr. Marianna De Santis
+    img: /img/people/marianna.png
+    desc: Associate Professor
+    website:  
+    url:
+    github:  
+    linkedin:
+      
+  - name: Dr. Matteo Lapucci
+    img: /img/people/matteo.png
     desc: Assistant Professor 
-    website: https://robertoverdecchia.github.io/
-    url: https://robertoverdecchia.github.io/
-    github: https://github.com/robertoverdecchia
-    twitter: https://twitter.com/r_verdecchia
+    website:
+    url:
+    github:  
+    linkedin:  
 
-  - name: Dr. Benedetta Picano
-    img: /img/people/benedetta.png
-    desc: Assistant Professor
-    website: https://stlab.dinfo.unifi.it/picano
-    url: https://stlab.dinfo.unifi.it/picano
-
-  - name: Dr. Leonardo Scommegna
-    img: /img/people/leonardo.png
-    desc: Assistant Professor
-    website: https://leonardoscommegna.github.io/
-    url: https://leonardoscommegna.github.io/
-
-  - name: Dr. Gloria Gori
-    img: /img/people/gloria.png
-    desc: Assistant Professor
-    website: https://www.linkedin.com/in/gloriagori/?originalSubdomain=it
-    url: https://www.linkedin.com/in/gloriagori/?originalSubdomain=it
-
-  - name: Leonardo Paroli
-    img: /img/people/leo.png
-    desc: PhD Student
-    website: https://www.linkedin.com/in/leonardo-paroli-127508154/?originalSubdomain=it
-    url: https://www.linkedin.com/in/leonardo-paroli-127508154/?originalSubdomain=it
-    github: https://github.com/LeonardoParoli
+  - name: Dr. Tommaso Aldinucci
+    img: /img/people/tommaso.png
+    desc: Postdoc
+    website:  
+    url:
+    github:  
+    linkedin:
+      
+  - name: Dr. Simone Magistri
+    img: /img/people/simone.png
+    desc: Postdoc
+    website:  
+    url:
+    github:  
+    linkedin:
     
-  - name: Giovanni Fontani
-    img: /img/people/giovanni.png
+  - name: Dr. Pierluigi Mansueto
+    img: /img/people/pierluigi.png
+    desc: Postdoc
+    website:  
+    url:
+    github:  
+    linkedin:
+    
+  - name: Arturo Annunziata 
+    img: /img/people/arturo.png
     desc: Phd Student
-
-  - name: Marco Becattini
-    img: /img/people/marco.png
+    website:  
+    url:
+    github:  
+    linkedin:
+ 
+  - name: Saliha Busra Gunduz  
+    img: /img/people/saliha.png
     desc: Phd Student
+    website:  
+    url:
+    github:  
+    linkedin:
+    
+  - name: Federica Donnini
+    img: /img/people/federica.png
+    desc: Phd Student
+    website:  
+    url:
+    github:  
+    linkedin:
+    
+  - name: Davide Pucci
+    img: /img/people/davide.png
+    desc: Phd Student
+    website:  
+    url:
+    github:  
+    linkedin:
     
   - name: Dr. Imad Zaza
     img: /img/people/imad.png
@@ -88,13 +118,13 @@ team:
 - Nicola Bertocci
 
 # Scientific Collaborators
-- [Prof. Patricia Lago](https://patricialago.nl/)
-- [Prof. András Horváth](http://www.di.unito.it/~horvath/)
-- [Prof. Romano Fantacci](https://romanofantacci.com/)
+- [Prof. Fabio Schoen]( )
+<!-- - [Prof. András Horváth](http://www.di.unito.it/~horvath/)
+- [Prof. Romano Fantacci](https://romanofantacci.com/) -->
   
 <!--
 # Former Members
 - ? [e.g., former graduated Ph.D. Student]
 -->
 # Guests
-- [Dr. Marco Paolieri](https://qed.usc.edu/paolieri/)
+<!-- - [Dr. Marco Paolieri](https://qed.usc.edu/paolieri/) -->

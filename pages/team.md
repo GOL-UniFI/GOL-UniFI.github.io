@@ -10,9 +10,7 @@ team:
     url:
     github:  
     linkedin:   
-    <!-- website: https://stlab.dinfo.unifi.it/vicario/
-    url: https://stlab.dinfo.unifi.it/vicario/-->
-
+    
   - name: Prof. Dr. Paola Cappanera
     img: /img/people/paola.png
     desc: Associate Professor

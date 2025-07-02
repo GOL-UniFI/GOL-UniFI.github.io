@@ -7,7 +7,7 @@ title: About us
 At the intersection of theory and application, our research group specializes in the design and development of innovative optimization models and algorithms. 
 We aim to solutions that not only advance the field of optimization but also have a positive impact on real-world challenges, especially in areas like healthcare management.
   
-##Keenly interested in technology transfer, we keep thigh bonds with industrial partners to ensure a continuous and fruitful knowledge exchange between academia and industry. 
+<!-- Keenly interested in technology transfer, we keep thigh bonds with industrial partners to ensure a continuous and fruitful knowledge exchange between academia and industry.--> 
 
 ## Focus
 Our **research** is actively being conducted in the following areas:

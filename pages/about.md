@@ -16,7 +16,7 @@ We aim to solutions that not only advance the field of optimization but also hav
   
   <div class="col-lg-6 col-md-12" style="margin-bottom: 2rem;">
     <div style="text-align: center;">
-      <span class="fa fa-chart-line" style="color: #B8860B; font-size: 2.5em; margin-bottom: 0.5rem;"></span>
+      <span class="fa fa-area-chart" style="color: #B8860B; font-size: 2.5em; margin-bottom: 0.5rem;"></span>
       <div><strong>Nonlinear Optimization</strong></div>
     </div>
   </div>

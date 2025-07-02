@@ -49,9 +49,9 @@ title-img: /assets/img/GOL_logo.png
 #FAEBD7
 
 navbar-col: "#FAF0E6"
-navbar-text-col: "#B8860B"
+navbar-text-col: "#000000"
 navbar-children-col: "#000000"
-navbar-border-col: "#B8860B"
+navbar-border-col: "#000000"
 page-col: "#FAF0E6"
 text-col: "#000000"
 link-col: "#B8860B"

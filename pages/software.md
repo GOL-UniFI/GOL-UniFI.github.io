@@ -5,7 +5,7 @@ title: Our software
 
 <!-- subtitle: X  -->
 
-In the following you can find the main software (open-source) projects implemented and maintained by us. Refer to our [GitHub profile](https://github.com/STLab-UniFI) for a complete overview of all our projects/tools.
+In the following you can find the main software (open-source) projects implemented and maintained by us. 
 
 # MOMIX
 <div style="text-align: center;">

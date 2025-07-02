@@ -13,17 +13,17 @@ We aim to solutions that not only advance the field of optimization but also hav
 Our **research** is actively being conducted in the following areas:
 <div class="row ">
   <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
-  <div style="text-align: center;"><span class="fa fa-clock-o icon_bg icon_square"></span><div> nonlinear unconstrained and constrained optimization
+  <div style="text-align: center;"><span class="fa fa-clock-o icon_bg icon_square"></span><div> Nonlinear Optimization
   </div></div>
 </div>
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
-<div style="text-align: center;"><span class="fa fa fa-arrows-alt icon_square"></span><div> multi-objective optimization </div></div>
+<div style="text-align: center;"><span class="fa fa fa-arrows-alt icon_square"></span><div> Multi-Objective Optimization </div></div>
 </div>
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
-  <div style="text-align: center;"><span class="fa fa-dashboard icon_bg icon_square"></span><div> operations research health-care management </div></div>
+  <div style="text-align: center;"><span class="fa fa-dashboard icon_bg icon_square"></span><div> Operations Research for Health-Care Management </div></div>
   </div>
   <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
-  <div style="text-align: center;"><span class="fa a fa-flask icon_square"></span><div>mixed integer programming</div></div>
+  <div style="text-align: center;"><span class="fa a fa-flask icon_square"></span><div>Mixed Integer Programming</div></div>
 </div>
 <br />
 </div>

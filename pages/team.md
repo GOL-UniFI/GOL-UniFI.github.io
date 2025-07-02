@@ -92,6 +92,9 @@ team:
     github:  
     linkedin:
        
+---
+
+
   <!-- - name: Dr. Imad Zaza
     img: /img/people/imad.png
     desc: DevOps Group Engineer
@@ -99,7 +102,7 @@ team:
     url: https://www.linkedin.com/in/imad-zaza-521b8a33/?originalSubdomain=it
 -->
 
----
+
 {% include list-squares.html items=page.team %}
 
 <!--

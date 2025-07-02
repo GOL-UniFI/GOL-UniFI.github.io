@@ -4,14 +4,13 @@ title: About us
 <!-- subtitle: X  -->
 ---
 
-Our end goal is the ever-improvement of the development, maintenance, and quality optimization processes of software products. To do so, we employ a mix of formal and empirical methods to design and evaluate new approaches and algorithms, from their theoretical conception to their hands on experimentation and deployment. 
-
-Keenly interested in technology transfer, we keep thigh bonds with industrial partners to ensure a continuous and fruitful knowledge exchange between academia and industry. 
-
-Our vision is to strive towards formally-proven, evidence-based, and data-driven software engineering solutions, with which we can jointly progress towards higher-quality, more performant, and more sustainable software.
+At the intersection of theory and application, our research group specializes in the design and development of innovative optimization models and algorithms. 
+We aim to solutions that not only advance the field of optimization but also have a positive impact on real-world challenges, especially in areas like healthcare management.
+  
+##Keenly interested in technology transfer, we keep thigh bonds with industrial partners to ensure a continuous and fruitful knowledge exchange between academia and industry. 
 
 ## Focus
-Our **focus** is in the development of optimization models and algorithms. In particular, research is actively being conducted in the following areas:
+Our **research** is actively being conducted in the following areas:
 <div class="row ">
   <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
   <div style="text-align: center;"><span class="fa fa-clock-o icon_bg icon_square"></span><div> nonlinear unconstrained and constrained optimization

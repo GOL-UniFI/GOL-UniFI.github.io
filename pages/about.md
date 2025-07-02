@@ -10,6 +10,40 @@ We aim to solutions that not only advance the field of optimization but also hav
 <!-- Keenly interested in technology transfer, we keep thigh bonds with industrial partners to ensure a continuous and fruitful knowledge exchange between academia and industry.--> 
 
 ## Focus
+<h2>Our <strong>research</strong> is actively being conducted in the following areas:</h2>
+
+<div class="row">
+  <div class="col-lg-6 col-md-12">
+    <div style="text-align: center;">
+      <span class="fa fa-cogs" style="color: #007BFF; font-size: 2em;"></span>
+      <div><strong>Nonlinear Optimization</strong></div>
+    </div>
+  </div>
+
+  <div class="col-lg-6 col-md-12">
+    <div style="text-align: center;">
+      <span class="fa fa-project-diagram" style="color: #28A745; font-size: 2em;"></span>
+      <div><strong>Multi-Objective Optimization</strong></div>
+    </div>
+  </div>
+
+  <div class="col-lg-6 col-md-12">
+    <div style="text-align: center;">
+      <span class="fa fa-hospital" style="color: #DC3545; font-size: 2em;"></span>
+      <div><strong>Operations Research for Health-Care Management</strong></div>
+    </div>
+  </div>
+
+  <div class="col-lg-6 col-md-12">
+    <div style="text-align: center;">
+      <span class="fa fa-calculator" style="color: #FFC107; font-size: 2em;"></span>
+      <div><strong>Mixed Integer Programming</strong></div>
+    </div>
+  </div>
+</div>
+
+
+
 Our **research** is actively being conducted in the following areas:
 <div class="row ">
   <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">

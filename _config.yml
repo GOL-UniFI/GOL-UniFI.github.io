@@ -145,7 +145,7 @@ site-js:
 author: "Global Optimization Laboratory • University of Florence"
 
 # favicon location
-favicon: "/img/logos/garland_GOL_logo.jpg"
+favicon: "/img/logos/favicon.jpg"
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.

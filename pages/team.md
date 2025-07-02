@@ -119,13 +119,14 @@ team:
 - [Stefania Cerboni](https://www.linkedin.com/in/stefania-cerboni-66407a145/)
 - Nicola Bertocci
 -->
-
+<!--
 # Scientific Collaborators
 - [Prof. Fabio Schoen]( )
- 
+ -->
 <!--
 # Former Members
 - ? [e.g., former graduated Ph.D. Student]
 -->
+<!--
 # Guests
-<!-- - [Dr. Marco Paolieri](https://qed.usc.edu/paolieri/) -->
+ - [Dr. Marco Paolieri](https://qed.usc.edu/paolieri/) -->

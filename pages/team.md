@@ -3,7 +3,7 @@ layout: page
 title: Team
 <!-- subtitle: X  -->
 team:
-  - name: Prof. Dr. Fabio Tardella
+  - name: Prof. Fabio Tardella
     img: /img/people/fabio.png
     desc: Full Professor
     website:  
@@ -11,7 +11,7 @@ team:
     github:  
     linkedin:   
     
-  - name: Prof. Dr. Paola Cappanera
+  - name: Prof. Paola Cappanera
     img: /img/people/paola.png
     desc: Associate Professor
     website:  
@@ -19,7 +19,7 @@ team:
     github:  
     linkedin:  
 
-  - name: Prof. Dr. Marianna De Santis
+  - name: Prof. Marianna De Santis
     img: /img/people/marianna.png
     desc: Associate Professor
     website:  https://cercachi.unifi.it/p-doc2-0-0-A-3f2c372f3a2e2a-0.html
@@ -90,13 +90,13 @@ team:
     url:
     github:  
     linkedin:
-    
+<!--    
   - name: Dr. Imad Zaza
     img: /img/people/imad.png
     desc: DevOps Group Engineer
     website: https://www.linkedin.com/in/imad-zaza-521b8a33/?originalSubdomain=it
     url: https://www.linkedin.com/in/imad-zaza-521b8a33/?originalSubdomain=it
-
+-->
 
 ---
 {% include list-squares.html items=page.team %}

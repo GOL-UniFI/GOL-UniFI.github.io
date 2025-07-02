@@ -4,7 +4,7 @@ title: Teaching
 <!-- subtitle: X  -->
 ---
 
-The STLab provides the following courses.
+The Global Optimization Laboratory provides the following courses at the University of Florence.
 
 |Course | Instructor | Program |
 | --- | --- | --- |

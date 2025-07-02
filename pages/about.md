@@ -27,9 +27,7 @@ Our **research** is actively being conducted in the following areas:
 </div>
 <br />
 </div>
-
-Our strength is the balance between **scientific quality** and **industrial relevance**.
-
+ 
 ## Some Application areas and Partners
 
 **Application areas**

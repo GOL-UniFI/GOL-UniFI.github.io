@@ -1,3 +1,3 @@
-# Software Technlogies Laboratory 
+# Global Optimization Laboratory 
 
-Official website of the Software Technlogies Laboratory at the School of Engineering - University of Florence
+Official website of the Global Optimization Laboratory at the School of Engineering - University of Florence

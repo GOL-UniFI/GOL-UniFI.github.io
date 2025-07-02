@@ -16,7 +16,7 @@ In the following you can find the main software (open-source) projects implement
 </figure> -->
 </div>
 MOMIX is a branch and bound method for multi-objective mixed integer convex programming
-<!-- Website: [https://github.com/mariannadesantis/MOMIX](https://github.com/mariannadesantis/MOMIX)
+<!-- Website: [https://github.com/mariannadesantis/MOMIX](https://github.com/mariannadesantis/MOMIX) -->
 
 GitHub: [https://github.com/mariannadesantis/MOMIX](https://github.com/mariannadesantis/MOMIX)<br>
 Publication: [PDF](https://epubs.siam.org/doi/epdf/10.1137/19M1264709)

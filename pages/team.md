@@ -24,8 +24,8 @@ team:
   - name: Prof. Dr. Marianna De Santis
     img: /img/people/marianna.png
     desc: Associate Professor
-    website:  
-    url:
+    website:  https://cercachi.unifi.it/p-doc2-0-0-A-3f2c372f3a2e2a-0.html
+    url: https://cercachi.unifi.it/p-doc2-0-0-A-3f2c372f3a2e2a-0.html
     github:  
     linkedin:
       

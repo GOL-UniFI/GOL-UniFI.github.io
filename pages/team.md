@@ -109,13 +109,14 @@ team:
 - [Prof. Dr. Gerrit van der Veer](https://www.cs.vu.nl/~gerrit/)
 - [Prof. Dr. Chris Verhoef](https://www.cs.vu.nl/~x/)
 -->
-
+<! -- 
 # Researcher assistants
 - [Dr. Jacopo Parri](https://www.unifi.it/p-doc2-2020-0-A-2c3337293730-0.html)
 - [Dr. Samuele Sampietro](https://www.linkedin.com/in/samuele-sampietro/)
 - [Boris Brizzi](https://www.linkedin.com/in/boris-brizzi-099592117/)
 - [Stefania Cerboni](https://www.linkedin.com/in/stefania-cerboni-66407a145/)
 - Nicola Bertocci
+-->
 
 # Scientific Collaborators
 - [Prof. Fabio Schoen]( )

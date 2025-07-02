@@ -6,26 +6,6 @@ title: Teaching
 
 The Global Optimization Laboratory provides the following courses at the University of Florence.
 
-<table class="teaching-table">
-  <thead>
-    <tr>
-      <th>Course</th>
-      <th>Instructor</th>
-      <th>Program</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Fondamenti di Ricerca Operativa</td>
-      <td><a href="https://cercachi.unifi.it/p-doc2-0-0-A-3f2c372f3a2e2a-0.html" target="_blank">Marianna De Santis</a></td>
-      <td>Bachelor Electronic Engineering</td>
-    </tr>
-    <!-- Add remaining rows similarly -->
-  </tbody>
-</table>
-
-
-
 |Course | Instructor | Program |
 | --- | --- | --- |
 | Fondamenti di Ricerca Operativa | [Marianna De Santis](https://cercachi.unifi.it/p-doc2-0-0-A-3f2c372f3a2e2a-0.html){:target="_blank"} | Bachelor Electronic Engineering |

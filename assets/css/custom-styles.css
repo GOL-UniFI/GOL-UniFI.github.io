@@ -16,7 +16,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .publication-dropdown {
-  color: #4A99E9;
+  color: #B8860B;
   background-color:black;
   text-align:center;
   align:center
@@ -36,14 +36,14 @@ h1, h2, h3, h4, h5, h6 {
   color: #FFFFFF !important;
   font-size: 2em !important;
   line-height: 2em !important;
-  background-color: #4A99E9 !important;
+  background-color: #B8860B !important;
   height: 2em !important;
   width: 2em !important;
   margin-top: 1em !important;
 }
 
 .publication-block {
-  border-bottom: 1px solid #4A99E9;
+  border-bottom: 1px solid #B8860B;
 }
 
 .publication-block-title {

@@ -3,7 +3,9 @@ layout: page
 title: About us
 <!-- subtitle: X  -->
 ---
+## GOALS of GOL (GLOBAL OPTIMIZATION LABORATORY)
 
+Mathematical optimization plays a crucial role in the economy, science, industry, policy-making, and both the public and private sectors.
 At the intersection of theory and application, our research group specializes in the design and development of innovative optimization models and algorithms. 
 We aim to solutions that not only advance the field of optimization but also have a positive impact on real-world challenges, especially in areas like healthcare management.
   
@@ -38,7 +40,7 @@ Our research is actively being conducted in the following areas:
   <div class="col-lg-6 col-md-12" style="margin-bottom: 2rem;">
     <div style="text-align: center;">
       <span class="fa fa-sitemap" style="color: #B8860B; font-size: 2.5em; margin-bottom: 0.5rem;"></span>
-      <div><strong>Mixed Integer Programming</strong></div>
+      <div><strong>Global Optimization</strong></div>
     </div>
   </div>
 

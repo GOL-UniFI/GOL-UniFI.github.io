@@ -10,6 +10,6 @@ In the following you can find the group members (and their topics of interest) w
 | --- | --- |
 | Fabio Tardella | TDB |
 | Paola Cappanera | TBD |
-| Marianna De Santis | TBD |
+| Marianna De Santis | Global and heuristic methods for (multi-objective) mixed-integer nonlinear programs|
 | Matteo Lapucci | TBD |
  

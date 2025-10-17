@@ -13,12 +13,12 @@ team:
     linkedin:   
     
   - name: Prof. Paola Cappanera
-    img: /img/people/paola.png
+    img: /img/people/paola_photo.jpg
     desc: Associate Professor
-    website:  
-    url:
+    website:  https://cercachi.unifi.it/p-doc2-0-0-A-3f2a3d32372a2a.html
+    url: https://cercachi.unifi.it/p-doc2-0-0-A-3f2a3d32372a2a.html
     github:  
-    linkedin:  
+    linkedin:  https://www.linkedin.com/in/paola-cappanera-988404205/
 
   - name: Prof. Marianna De Santis
     img: /img/people/marianna.jpg

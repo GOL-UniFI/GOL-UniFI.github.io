@@ -18,7 +18,7 @@ title: Awards
 **Recipients:** _Matteo Lapucci_, _Pierluigi Mansueto_<br>
 **Journal:**  Computational Optimization and Applications 2024<br>
 
-**Recipients:** _Paola Cappanera<br>
+**Recipients:** _Paola Cappanera_<br>
 **Journal:**  Omega. The International Journal of Management Science 2018 <br>
 **Article title:**  Demand uncertainty in robust Home Care optimization <br>
 <!-- <p align="center">

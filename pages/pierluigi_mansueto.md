@@ -29,7 +29,7 @@ title: Pierluigi Mansueto
               <li>PhD Thesis available <a href="https://flore.unifi.it/retrieve/9b40e7bf-1fa0-40ef-a5dc-fb8ca9303f15/PhD-Thesis_Mansueto.pdf">here</a>.</li>
             </ul>
 
-            <img src="https://webgol.dinfo.unifi.it/wp-content/uploads/2020/12/mansueto.jpeg" 
+            <img src="/img/people/mansueto.jpeg" 
                  alt="Pierluigi Mansueto" 
                  width="160" height="160" 
                  class="profile-photo" />

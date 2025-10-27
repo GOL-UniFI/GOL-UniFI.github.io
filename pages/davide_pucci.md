@@ -89,7 +89,7 @@ title: Davide Pucci
           <li>
           <strong> Effective Front-Descent Algorithms with Convergence Guarantees.<br>
           M. Lapucci, P. Mansueto, D. Pucci.</strong><br>
-          <em>arXiv pre-print</em> (2024). <a href="https://arxiv.org/abs/2405.08450">1	arXiv:2405.08450</a>
+          <em>arXiv pre-print</em> (2024). <a href="https://arxiv.org/abs/2405.08450">arXiv:2405.08450</a>
           </li>
         </ol>
       </section>
@@ -100,7 +100,7 @@ title: Davide Pucci
           <a href="http://maps.google.it/maps?f=q&source=s_q&hl=it&q=via+di+santa+marta,+3,+firenze" target="_blank" rel="noopener noreferrer">
             Via di Santa Marta, 3 – 50139 Firenze (FI), Italy
           </a><br>
-          E-mail: davide.pucci@unifi.it
+          E-mail: davide.pucci(AT)unifi.it
         </p>
       </section>
 

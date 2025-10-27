@@ -85,12 +85,12 @@ team:
     linkedin:
     
   - name: Davide Pucci
-    img: /img/people/davide.png
+    img: /img/people/pucci.png
     desc: Phd Student
-    website:  
-    url:
-    github:  
-    linkedin:
+    website: https://gol-unifi.github.io/pages/davide_pucci/
+    url: https://gol-unifi.github.io/pages/davide_pucci/
+    github: https://github.com/dadoPuccio 
+    linkedin: https://www.linkedin.com/in/davide-pucci-44a9b3235/
        
 ---
 

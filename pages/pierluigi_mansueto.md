@@ -17,7 +17,7 @@ title: Pierluigi Mansueto
           </p>
 
           <p>
-            My research interests are optimization applications, machine learning, and other related topics. 
+            My research interest are optimization applications, machine learning, and other related topics. 
             My principal addressed problems concern multi-objective optimization, clustering, and Bayesian optimization.
           </p>
 
@@ -223,7 +223,7 @@ title: Pierluigi Mansueto
       <section class="software">
         <h2>Software</h2>
         <ul>
-        
+
         <li>fpd_nmt v1.0.0 — <a href="https://github.com/pierlumanzu/fpd_nmt">github.com/pierlumanzu/fpd_nmt</a></li>
         <li>cs_hb v1.0.0 — <a href="https://github.com/dfede3/cs_hb">github.com/dfede3/cs_hb</a></li>
         <li>FSP v1.0.0 — <a href="https://github.com/pierlumanzu/FSP">github.com/pierlumanzu/FSP</a></li>

@@ -37,131 +37,98 @@ title: Pierluigi Mansueto
         </div>
       </header>
 
-      <section class="publications">
-        <h2>Publications</h2>
-        <ol>
-
-            <li>
-            On the computation of the efficient frontier in advanced sparse portfolio optimization.<br>
-            <strong>A. Annunziata, M. Lapucci, P. Mansueto, D. Pucci</strong>.<br>
-            <em>4OR</em> (2025). DOI: 
-            <a href="https://doi.org/10.1007/s10288-025-00600-3">10.1007/s10288-025-00600-3</a>
-            </li>
-
-            <li>
-            Optimization-Driven Design of Monolithic Soft-Rigid Grippers.<br>
-            <strong>P. Mansueto, M. Dragusanu, A. Saeed, M. Malvezzi, M. Lapucci, G. Salvietti</strong>.<br>
-            <em>Soft Robotics</em> (2025). DOI: 
-            <a href="https://www.liebertpub.com/doi/abs/10.1177/21695172251359016">10.1177/21695172251359016</a>
-            </li>
-
-            <li>
-            A Bi-Objective Optimization Based Acquisition Strategy for Batch Bayesian Global Optimization.<br>
-            <strong>F. Carciaghi, S. Magistri, P. Mansueto, F. Schoen</strong>.<br>
-            <em>Computational Optimization and Applications</em> (2025). DOI:
-            <a href="https://doi.org/10.1007/s10589-025-00696-7">10.1007/s10589-025-00696-7</a>
-            </li>
-
-            <li>
-            Cardinality-Constrained Multi-objective Optimization: Novel Optimality Conditions and Algorithms.<br>
-            <strong>M. Lapucci, P. Mansueto</strong>.<br>
-            <em>Journal of Optimization Theory and Applications</em> (2024). DOI:
-            <a href="https://doi.org/10.1007/s10957-024-02397-3">10.1007/s10957-024-02397-3</a>
-            </li>
-
-            <li>
-            Improved front steepest descent for multi-objective optimization.<br>
-            <strong>M. Lapucci, P. Mansueto</strong>.<br>
-            <em>Operations Research Letters</em> (2023). DOI:
-            <a href="https://doi.org/10.1016/j.orl.2023.03.001">10.1016/j.orl.2023.03.001</a>
-            </li>
-
-            <li>
-            A limited memory Quasi-Newton approach for multi-objective optimization.<br>
-            <strong>M. Lapucci, P. Mansueto</strong>.<br>
-            <em>Computational Optimization and Applications</em> (2023). DOI:
-            <a href="https://doi.org/10.1007/s10589-023-00454-7">10.1007/s10589-023-00454-7</a>
-            </li>
-
-            <li>
-            A memetic procedure for global multi-objective optimization.<br>
-            <strong>M. Lapucci, P. Mansueto, F. Schoen</strong>.<br>
-            <em>Mathematical Programming Computation</em> (2022). DOI:
-            <a href="https://doi.org/10.1007/s12532-022-00231-3">10.1007/s12532-022-00231-3</a>
-            </li>
-
-            <li>
-            Pareto Front Approximation through a Multi-objective Augmented Lagrangian Method.<br>
-            <strong>G. Cocchi, M. Lapucci, P. Mansueto</strong>.<br>
-            <em>EURO Journal on Computational Optimization</em> (2021). DOI:
-            <a href="https://doi.org/10.1016/j.ejco.2021.100008">10.1016/j.ejco.2021.100008</a>
-            </li>
-
-            <li>
-            Memetic differential evolution methods for clustering problems.<br>
-            <strong>P. Mansueto, F. Schoen</strong>.<br>
-            <em>Pattern Recognition</em> (2021). DOI:
-            <a href="https://doi.org/10.1016/j.patcog.2021.107849">10.1016/j.patcog.2021.107849</a>
-            </li>
-
-            <li>
-            Recognition of Concordances for Indexing in Digital Libraries.<br>
-            <strong>S. Marinai, S. Capobianco, Z. Ziran, A. Giuntini, P. Mansueto</strong>.<br>
-            <em>Digital Libraries: The Era of Big Data and Data Science</em> (2020). DOI:
-            <a href="https://doi.org/10.1007/978-3-030-39905-4_14">10.1007/978-3-030-39905-4_14</a>
-            </li>
-
-        </ol>
-      </section>
-
-      <section class="preprints">
-        <h2>Preprints</h2>
-        <ol>
-
+    <section class="publications">
+    <h2>Publications</h2>
+    <ol>
         <li>
-        A Nonmonotone Front Descent Method for Bound-Constrained Multi-Objective Optimization.<br>
-        <strong>P. Mansueto</strong>.<br>
-        <em>ArXiv pre-print</em> (2025). DOI:
-        <a href="https://doi.org/10.48550/arXiv.2509.02409">10.48550/arXiv.2509.02409</a>
+        <strong>On the computation of the efficient frontier in advanced sparse portfolio optimization.</strong><br>
+        A. Annunziata, M. Lapucci, P. Mansueto, D. Pucci.<br>
+        <em>4OR</em> (2025). DOI: <a href="https://doi.org/10.1007/s10288-025-00600-3">10.1007/s10288-025-00600-3</a>
         </li>
-
         <li>
-        Efficient globalization of heavy-ball type methods for unconstrained optimization based on curve searches.<br>
-        <strong>F. Donnini, M. Lapucci, P. Mansueto</strong>.<br>
-        <em>ArXiv pre-print</em> (2025). DOI:
-        <a href="https://doi.org/10.48550/arXiv.2505.19705">10.48550/arXiv.2505.19705</a>
+        <strong>Optimization-Driven Design of Monolithic Soft-Rigid Grippers.</strong><br>
+        P. Mansueto, M. Dragusanu, A. Saeed, M. Malvezzi, M. Lapucci, G. Salvietti.<br>
+        <em>Soft Robotics</em> (2025). DOI: <a href="https://www.liebertpub.com/doi/abs/10.1177/21695172251359016">10.1177/21695172251359016</a>
         </li>
-
         <li>
-        Projection-based curve pattern search for black-box optimization over smooth convex sets.<br>
-        <strong>X. Jia, M. Lapucci, P. Mansueto</strong>.<br>
-        <em>ArXiv pre-print</em> (2025). DOI:
-        <a href="https://doi.org/10.48550/arXiv.2503.20616">10.48550/arXiv.2503.20616</a>
+        <strong>A Bi-Objective Optimization Based Acquisition Strategy for Batch Bayesian Global Optimization.</strong><br>
+        F. Carciaghi, S. Magistri, P. Mansueto, F. Schoen.<br>
+        <em>Computational Optimization and Applications</em> (2025). DOI: <a href="https://doi.org/10.1007/s10589-025-00696-7">10.1007/s10589-025-00696-7</a>
         </li>
-
         <li>
-        Combining Gradient Information and Primitive Directions for High-Performance Mixed-Integer Optimization.<br>
-        <strong>M. Lapucci, G. Liuzzi, S. Lucidi, P. Mansueto</strong>.<br>
-        <em>ArXiv pre-print</em> (2024). DOI:
-        <a href="https://doi.org/10.48550/arXiv.2407.14416">10.48550/arXiv.2407.14416</a>
+        <strong>Cardinality-Constrained Multi-objective Optimization: Novel Optimality Conditions and Algorithms.</strong><br>
+        M. Lapucci, P. Mansueto.<br>
+        <em>Journal of Optimization Theory and Applications</em> (2024). DOI: <a href="https://doi.org/10.1007/s10957-024-02397-3">10.1007/s10957-024-02397-3</a>
         </li>
-
         <li>
-        Effective Front-Descent Algorithms with Convergence Guarantees.<br>
-        <strong>M. Lapucci, P. Mansueto, D. Pucci</strong>.<br>
-        <em>ArXiv pre-print</em> (2024). DOI:
-        <a href="https://doi.org/10.48550/arXiv.2405.08450">10.48550/arXiv.2405.08450</a>
+        <strong>Improved front steepest descent for multi-objective optimization.</strong><br>
+        M. Lapucci, P. Mansueto.<br>
+        <em>Operations Research Letters</em> (2023). DOI: <a href="https://doi.org/10.1016/j.orl.2023.03.001">10.1016/j.orl.2023.03.001</a>
         </li>
-
         <li>
-        Memetic Differential Evolution Methods for Semi-Supervised Clustering.<br>
-        <strong>P. Mansueto, F. Schoen</strong>.<br>
-        <em>ArXiv pre-print</em> (2024). DOI:
-        <a href="https://doi.org/10.48550/arXiv.2403.04322">10.48550/arXiv.2403.04322</a>
+        <strong>A limited memory Quasi-Newton approach for multi-objective optimization.</strong><br>
+        M. Lapucci, P. Mansueto.<br>
+        <em>Computational Optimization and Applications</em> (2023). DOI: <a href="https://doi.org/10.1007/s10589-023-00454-7">10.1007/s10589-023-00454-7</a>
         </li>
+        <li>
+        <strong>A memetic procedure for global multi-objective optimization.</strong><br>
+        M. Lapucci, P. Mansueto, F. Schoen.<br>
+        <em>Mathematical Programming Computation</em> (2022). DOI: <a href="https://doi.org/10.1007/s12532-022-00231-3">10.1007/s12532-022-00231-3</a>
+        </li>
+        <li>
+        <strong>Pareto Front Approximation through a Multi-objective Augmented Lagrangian Method.</strong><br>
+        G. Cocchi, M. Lapucci, P. Mansueto.<br>
+        <em>EURO Journal on Computational Optimization</em> (2021). DOI: <a href="https://doi.org/10.1016/j.ejco.2021.100008">10.1016/j.ejco.2021.100008</a>
+        </li>
+        <li>
+        <strong>Memetic differential evolution methods for clustering problems.</strong><br>
+        P. Mansueto, F. Schoen.<br>
+        <em>Pattern Recognition</em> (2021). DOI: <a href="https://doi.org/10.1016/j.patcog.2021.107849">10.1016/j.patcog.2021.107849</a>
+        </li>
+        <li>
+        <strong>Recognition of Concordances for Indexing in Digital Libraries.</strong><br>
+        S. Marinai, S. Capobianco, Z. Ziran, A. Giuntini, P. Mansueto.<br>
+        <em>Digital Libraries: The Era of Big Data and Data Science</em> (2020). DOI: <a href="https://doi.org/10.1007/978-3-030-39905-4_14">10.1007/978-3-030-39905-4_14</a>
+        </li>
+    </ol>
+    </section>
 
-        </ol>
-      </section>
+    <section class="preprints">
+    <h2>Preprints</h2>
+    <ol>
+        <li>
+        <strong>A Nonmonotone Front Descent Method for Bound-Constrained Multi-Objective Optimization.</strong><br>
+        P. Mansueto.<br>
+        <em>ArXiv pre-print</em> (2025). DOI: <a href="https://doi.org/10.48550/arXiv.2509.02409">10.48550/arXiv.2509.02409</a>
+        </li>
+        <li>
+        <strong>Efficient globalization of heavy-ball type methods for unconstrained optimization based on curve searches.</strong><br>
+        F. Donnini, M. Lapucci, P. Mansueto.<br>
+        <em>ArXiv pre-print</em> (2025). DOI: <a href="https://doi.org/10.48550/arXiv.2505.19705">10.48550/arXiv.2505.19705</a>
+        </li>
+        <li>
+        <strong>Projection-based curve pattern search for black-box optimization over smooth convex sets.</strong><br>
+        X. Jia, M. Lapucci, P. Mansueto.<br>
+        <em>ArXiv pre-print</em> (2025). DOI: <a href="https://doi.org/10.48550/arXiv.2503.20616">10.48550/arXiv.2503.20616</a>
+        </li>
+        <li>
+        <strong>Combining Gradient Information and Primitive Directions for High-Performance Mixed-Integer Optimization.</strong><br>
+        M. Lapucci, G. Liuzzi, S. Lucidi, P. Mansueto.<br>
+        <em>ArXiv pre-print</em> (2024). DOI: <a href="https://doi.org/10.48550/arXiv.2407.14416">10.48550/arXiv.2407.14416</a>
+        </li>
+        <li>
+        <strong>Effective Front-Descent Algorithms with Convergence Guarantees.</strong><br>
+        M. Lapucci, P. Mansueto, D. Pucci.<br>
+        <em>ArXiv pre-print</em> (2024). DOI: <a href="https://doi.org/10.48550/arXiv.2405.08450">10.48550/arXiv.2405.08450</a>
+        </li>
+        <li>
+        <strong>Memetic Differential Evolution Methods for Semi-Supervised Clustering.</strong><br>
+        P. Mansueto, F. Schoen.<br>
+        <em>ArXiv pre-print</em> (2024). DOI: <a href="https://doi.org/10.48550/arXiv.2403.04322">10.48550/arXiv.2403.04322</a>
+        </li>
+    </ol>
+    </section>
+
 
       <section class="talks">
         <h2>Talks</h2>
@@ -223,7 +190,7 @@ title: Pierluigi Mansueto
       <section class="software">
         <h2>Software</h2>
         <ul>
-        
+
         <li>fpd_nmt v1.0.0 — <a href="https://github.com/pierlumanzu/fpd_nmt">github.com/pierlumanzu/fpd_nmt</a></li>
         <li>cs_hb v1.0.0 — <a href="https://github.com/dfede3/cs_hb">github.com/dfede3/cs_hb</a></li>
         <li>FSP v1.0.0 — <a href="https://github.com/pierlumanzu/FSP">github.com/pierlumanzu/FSP</a></li>
@@ -247,7 +214,7 @@ title: Pierluigi Mansueto
           <a href="http://maps.google.it/maps?f=q&source=s_q&hl=it&q=via+di+santa+marta,+3,+firenze" target="_blank" rel="noopener noreferrer">
             Via di Santa Marta, 3 – 50139 Firenze (FI), Italy
           </a><br>
-          E-mail: pierluigi.mansueto@unifi.it, pierluigimansueto@gmail.com
+          E-mail: pierluigi dot mansueto at unifi dot it, pierluigimansueto at gmail dot com
         </p>
       </section>
 

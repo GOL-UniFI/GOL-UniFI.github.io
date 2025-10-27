@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pierluigi Mansueto
+title: Tommaso Aldinucci
 <!-- subtitle: X  -->
 ---
 

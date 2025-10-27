@@ -37,11 +37,11 @@ team:
     linkedin:  
 
   - name: Dr. Tommaso Aldinucci
-    img: /img/people/tommaso.png
+    img: /img/people/tommaso.JPG
     desc: Postdoc
-    website:  
-    url:
-    github:  
+    website: https://gol-unifi.github.io/pages/tommaso_aldinucci/
+    url: https://gol-unifi.github.io/pages/tommaso_aldinucci/
+    github: https://github.com/tom1092
     linkedin:
       
   - name: Dr. Simone Magistri

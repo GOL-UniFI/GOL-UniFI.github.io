@@ -214,7 +214,7 @@ title: Pierluigi Mansueto
           <a href="http://maps.google.it/maps?f=q&source=s_q&hl=it&q=via+di+santa+marta,+3,+firenze" target="_blank" rel="noopener noreferrer">
             Via di Santa Marta, 3 – 50139 Firenze (FI), Italy
           </a><br>
-          E-mail: pierluigi.mansueto@unifi.it, pierluigimansueto@gmail.com
+          E-mail: pierluigi dot mansueto at unifi dot it, pierluigimansueto at gmail dot com
         </p>
       </section>
 

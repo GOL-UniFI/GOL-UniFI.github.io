@@ -52,20 +52,20 @@ title: Davide Pucci
             <a href="https://doi.org/10.1007/s10288-025-00600-3">10.1007/s10288-025-00600-3</a>
           </li>
           <li>
-          <strong> Convergence conditions for stochastic line search based optimization of over-parametrized models.<br>
-            M. Lapucci, D. Pucci.</strong><br>
+          <strong> Convergence conditions for stochastic line search based optimization of over-parametrized models.</strong><br>
+            M. Lapucci, D. Pucci.<br>
             <em>Sensors</em> (2023). DOI: 
             <a href="https://doi.org/10.1080/02331934.2025.2551250">10.1080/02331934.2025.2551250</a>
           </li>
           <li>
-          <strong> Joint-based action progress prediction.<br>
-            D. Pucci, F. Becattini, A. Del Bimbo. </strong><br>
+          <strong> Joint-based action progress prediction.</strong><br>
+            D. Pucci, F. Becattini, A. Del Bimbo.<br>
             <em>Sensors</em> (2023). DOI: 
             <a href="https://doi.org/10.3390/s23010520">10.3390/s23010520</a>
           </li>
           <li>
-          <strong> Mixed-integer quadratic programming reformulations of multi-task learning models.<br>
-            M. Lapucci, D. Pucci. </strong><br>
+          <strong> Mixed-integer quadratic programming reformulations of multi-task learning models.</strong><br>
+            M. Lapucci, D. Pucci.<br>
             <em>Mathematics in Engineering</em> (2023). DOI: 
             <a href="https://doi.org/10.3934/mine.2023020">10.3934/mine.2023020</a>
           </li>

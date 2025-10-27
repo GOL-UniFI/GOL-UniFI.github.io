@@ -11,9 +11,9 @@ title: Tommaso Aldinucci
       <header class="profile-header">
         <div class="profile-text">
           <p>
-            PhD in <a href="https://smartcomputing.unifi.it/">Smart Computing/a>, 
+            PhD in <a href="https://smartcomputing.unifi.it/">Smart Computing</a>, 
             <a href="http://www.dinfo.unifi.it/" target="_blank" rel="noopener noreferrer">Department of Information Engineering (DINFO)</a>, 
-            <a href="http://www.unifi.it/" target="_blank" rel="noopener noreferrer">University of Florence</a>.
+            <a href="http://www.unifi.it/" target="_blank" rel="noopener noreferrer">University of Florence</a>
           </p>
 
           <p>
@@ -22,13 +22,10 @@ title: Tommaso Aldinucci
 
           <div class="profile-links-img">
             <ul>
-              <li><a href="https://scholar.google.com/citations?user=5dwG9b8AAAAJ&amp;hl=it">Google Scholar profile</a></li>
-              <li>ORCID: <a href="https://orcid.org/0000-0002-1394-0937">0000-0002-1394-0937</a></li>
-              <li><a href="/files/docs/CV-Pierluigi-Mansueto.pdf">Curriculum Vitae (PDF)</a></li>
-              <li>PhD Thesis available <a href="https://flore.unifi.it/retrieve/9b40e7bf-1fa0-40ef-a5dc-fb8ca9303f15/PhD-Thesis_Mansueto.pdf">here</a>.</li>
+              <li><a href="https://scholar.google.com/citations?user=qxaPTogAAAAJ&hl=it&oi=ao">Google Scholar profile</a></li>
             </ul>
 
-            <img src="/img/people/tommaso.jpg" 
+            <img src="/img/people/tommaso.JPG" 
                  alt="Tommaso Aldinucci" 
                  width="160" height="160" 
                  class="profile-photo" />
@@ -39,16 +36,12 @@ title: Tommaso Aldinucci
       <section class="publications">
         <h2>Publications</h2>
         <ol>
-
             <li>
             Loss-optimal classification trees: a generalized framework and the logistic case <br>
             <strong>T. Aldinucci, M. Lapucci </strong>.<br>
             <em>TOP</em> (2024). DOI: 
             <a href="https://doi.org/10.1007/s11750-024-00674-y">10.1007/s11750-024-00674-y</a>
             </li>
-
-
-
         </ol>
       </section>
 

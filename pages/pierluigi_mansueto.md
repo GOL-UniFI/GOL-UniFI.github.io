@@ -98,25 +98,33 @@ title: Pierluigi Mansueto
     margin-bottom: 25px;
   }
 
+  /* 🔹 Contenitore lista + immagine */
   .profile-links-img {
     display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-    gap: 20px;
-    margin-top: 10px;
+    justify-content: flex-start;
+    align-items: center; /* allinea verticalmente immagine e lista */
+    gap: 40px;           /* spazio equilibrato fra lista e immagine */
+    margin-top: 15px;
+    flex-wrap: wrap;     /* permette al layout di adattarsi su mobile */
   }
 
+  /* 🔹 Lista link */
   .profile-links-img ul {
     margin: 0;
     padding-left: 20px;
+    flex: 1 1 auto;
   }
 
+  /* 🔹 Immagine */
   .profile-photo {
     border-radius: 50%;
     object-fit: cover;
-    margin-top: 5px;
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
   }
 
+  /* 🔹 Margini sezioni */
   section {
     margin-top: 40px;
   }
@@ -128,5 +136,18 @@ title: Pierluigi Mansueto
 
   a {
     color: #004c99;
+  }
+
+  /* 🔹 Mobile: immagine sotto la lista, centrata */
+  @media (max-width: 768px) {
+    .profile-links-img {
+      flex-direction: column;
+      align-items: center;
+      text-align: left;
+    }
+
+    .profile-photo {
+      margin-top: 15px;
+    }
   }
 </style>

@@ -98,14 +98,24 @@ title: Pierluigi Mansueto
     margin-bottom: 25px;
   }
 
-  /* 🔹 Contenitore lista + immagine */
+  /* 🔹 Contenitore immagine + lista (immagine a sinistra) */
   .profile-links-img {
     display: flex;
     justify-content: flex-start;
     align-items: center; /* allinea verticalmente immagine e lista */
-    gap: 40px;           /* spazio equilibrato fra lista e immagine */
+    gap: 40px;
     margin-top: 15px;
-    flex-wrap: wrap;     /* permette al layout di adattarsi su mobile */
+    flex-wrap: wrap;
+  }
+
+  /* 🔹 Immagine del profilo a sinistra */
+  .profile-photo {
+    border-radius: 50%;
+    object-fit: cover;
+    width: 150px;
+    height: 150px;
+    margin: 0;
+    order: -1; /* sposta l’immagine prima della lista */
   }
 
   /* 🔹 Lista link */
@@ -115,16 +125,7 @@ title: Pierluigi Mansueto
     flex: 1 1 auto;
   }
 
-  /* 🔹 Immagine */
-  .profile-photo {
-    border-radius: 50%;
-    object-fit: cover;
-    width: 150px;
-    height: 150px;
-    margin: 0 auto;
-  }
-
-  /* 🔹 Margini sezioni */
+  /* 🔹 Sezioni successive */
   section {
     margin-top: 40px;
   }
@@ -138,7 +139,7 @@ title: Pierluigi Mansueto
     color: #004c99;
   }
 
-  /* 🔹 Mobile: immagine sotto la lista, centrata */
+  /* 🔹 Mobile: immagine sopra la lista, centrata */
   @media (max-width: 768px) {
     .profile-links-img {
       flex-direction: column;
@@ -147,7 +148,8 @@ title: Pierluigi Mansueto
     }
 
     .profile-photo {
-      margin-top: 15px;
+      margin-bottom: 15px;
+      order: 0; /* torna sopra la lista su mobile */
     }
   }
 </style>

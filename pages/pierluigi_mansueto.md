@@ -118,10 +118,10 @@ title: Pierluigi Mansueto
     order: -1;
   }
 
-  /* 🔹 Lista link — leggermente più a destra */
+  /* 🔹 Lista link — più spostata a destra */
   .profile-links-img ul {
     margin: 0;
-    padding-left: 35px; /* era 20px → aggiunti ~15px */
+    padding-left: 55px; /* 🔸 era 20 → ora 55 px di rientro totale */
     flex: 1 1 auto;
   }
 
@@ -141,20 +141,20 @@ title: Pierluigi Mansueto
   /* 🔹 Mobile: immagine sopra la lista, centrata */
   @media (max-width: 768px) {
     .profile-links-img {
-      flex-direction: column;
+      flex-direction: column; /* immagine sopra, lista sotto */
       align-items: center;
       text-align: left;
     }
 
     .profile-photo {
       margin-bottom: 15px;
-      order: 0;
+      order: 0; /* torna sopra alla lista su mobile */
     }
 
-    /* 🔹 Su mobile torna al padding normale */
     .profile-links-img ul {
-      padding-left: 20px;
+      padding-left: 20px; /* torna normale su mobile */
     }
   }
 </style>
+
 

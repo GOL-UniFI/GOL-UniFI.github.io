@@ -23,7 +23,7 @@ title: Davide Pucci
           <div class="profile-links-img">
             <ul>
               <li><a href="https://scholar.google.it/citations?user=mc70QUkAAAAJ">Google Scholar</a></li>
-              <li>ORCID: <a href="https://orcid.org/0000-0003-4424-9185">ORCID</a></li>
+              <li><a href="https://orcid.org/0000-0003-4424-9185">ORCID</a></li>
               <li><a href="https://www.linkedin.com/in/davide-pucci-44a9b3235/">LinkedIn</a></li>
               <li><a href="https://github.com/dadoPuccio">GitHub</a></li>
             </ul>
@@ -40,32 +40,32 @@ title: Davide Pucci
         <h2>Publications</h2>
         <ol>
           <li>
-           A Globally Convergent Gradient Method with Momentum.<br>
+           <strong>A Globally Convergent Gradient Method with Momentum.</strong><br>
            M. Lapucci, G. Liuzzi, S. Lucidi, D. Pucci, M. Sciandrone.<br>
             <em>Computational Optimization and Applications</em> (2025). DOI: 
             <a href="">TBD</a>
           </li>
           <li>
-            On the computation of the efficient frontier in advanced sparse portfolio optimization.<br>
+          <strong> On the computation of the efficient frontier in advanced sparse portfolio optimization.</strong><br>
            A. Annunziata, M. Lapucci, P. Mansueto, D. Pucci.<br>
             <em>4OR</em> (2025). DOI: 
             <a href="https://doi.org/10.1007/s10288-025-00600-3">10.1007/s10288-025-00600-3</a>
           </li>
           <li>
-            Convergence conditions for stochastic line search based optimization of over-parametrized models.<br>
-            M. Lapucci, D. Pucci.<br>
+          <strong> Convergence conditions for stochastic line search based optimization of over-parametrized models.<br>
+            M. Lapucci, D. Pucci.</strong><br>
             <em>Sensors</em> (2023). DOI: 
             <a href="https://doi.org/10.1080/02331934.2025.2551250">10.1080/02331934.2025.2551250</a>
           </li>
           <li>
-            Joint-based action progress prediction.<br>
-            D. Pucci, F. Becattini, A. Del Bimbo.<br>
+          <strong> Joint-based action progress prediction.<br>
+            D. Pucci, F. Becattini, A. Del Bimbo. </strong><br>
             <em>Sensors</em> (2023). DOI: 
             <a href="https://doi.org/10.3390/s23010520">10.3390/s23010520</a>
           </li>
           <li>
-            Mixed-integer quadratic programming reformulations of multi-task learning models.<br>
-            M. Lapucci, D. Pucci.<br>
+          <strong> Mixed-integer quadratic programming reformulations of multi-task learning models.<br>
+            M. Lapucci, D. Pucci. </strong><br>
             <em>Mathematics in Engineering</em> (2023). DOI: 
             <a href="https://doi.org/10.3934/mine.2023020">10.3934/mine.2023020</a>
           </li>
@@ -77,24 +77,19 @@ title: Davide Pucci
         <h2>Preprints</h2>
         <ol>
           <li>
-          Penalty decomposition derivative free method for the minimization of partially separable functions over a convex feasible set.<br>
+          <strong> Penalty decomposition derivative free method for the minimization of partially separable functions over a convex feasible set.</strong><br>
           F Cecere, M Lapucci, D Pucci, M Sciandrone.<br>
           <em>arXiv pre-print</em> (2025). <a href="https://arxiv.org/abs/2503.21631">arXiv:2503.21631</a>
           </li>
           <li>
-          Effectively Leveraging Momentum Terms in Stochastic Line Search Frameworks for Fast Optimization of Finite-Sum Problems.<br>
+          <strong> Effectively Leveraging Momentum Terms in Stochastic Line Search Frameworks for Fast Optimization of Finite-Sum Problems</strong>.<br>
           M Lapucci, D Pucci.<br>
           <em>arXiv pre-print</em> (2024). <a href="https://arxiv.org/abs/2411.07102">arXiv:2411.07102</a>
           </li>
           <li>
-          Effective Front-Descent Algorithms with Convergence Guarantees.<br>
-          M. Lapucci, P. Mansueto, D. Pucci.<br>
+          <strong> Effective Front-Descent Algorithms with Convergence Guarantees.<br>
+          M. Lapucci, P. Mansueto, D. Pucci.</strong><br>
           <em>arXiv pre-print</em> (2024). <a href="https://arxiv.org/abs/2405.08450">1	arXiv:2405.08450</a>
-          </li>
-          <li>
-          Effective Front-Descent Algorithms with Convergence Guarantees.<br>
-          M. Lapucci, P. Mansueto, D. Pucci.<br>
-          <em>arXiv pre-print</em> (2024). <a href="https://arxiv.org/abs/2405.08450">arXiv:2405.08450v3</a>
           </li>
         </ol>
       </section>

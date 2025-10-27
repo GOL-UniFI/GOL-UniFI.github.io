@@ -53,7 +53,7 @@ team:
     linkedin:
     
   - name: Dr. Pierluigi Mansueto
-    img: /img/people/pierluigi.png
+    img: /img/people/pier.png
     desc: Postdoc
     website:  
     url:

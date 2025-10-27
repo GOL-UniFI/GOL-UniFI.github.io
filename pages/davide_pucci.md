@@ -40,6 +40,12 @@ title: Davide Pucci
         <h2>Publications</h2>
         <ol>
           <li>
+           A Globally Convergent Gradient Method with Momentum.<br>
+           M. Lapucci, G. Liuzzi, S. Lucidi, D. Pucci, M. Sciandrone.<br>
+            <em>Computational Optimization and Applications</em> (2025). DOI: 
+            <a href="">TBD</a>
+          </li>
+          <li>
             On the computation of the efficient frontier in advanced sparse portfolio optimization.<br>
            A. Annunziata, M. Lapucci, P. Mansueto, D. Pucci.<br>
             <em>4OR</em> (2025). DOI: 
@@ -67,32 +73,31 @@ title: Davide Pucci
         </ol>
       </section>
 
-      <!--
       <section class="preprints">
         <h2>Preprints</h2>
         <ol>
-          
-          <!-- ... altri preprint ... -->
+          <li>
+          Penalty decomposition derivative free method for the minimization of partially separable functions over a convex feasible set.<br>
+          F Cecere, M Lapucci, D Pucci, M Sciandrone.<br>
+          <em>arXiv pre-print</em> (2025). <a href="https://arxiv.org/abs/2503.21631">arXiv:2503.21631</a>
+          </li>
+          <li>
+          Effectively Leveraging Momentum Terms in Stochastic Line Search Frameworks for Fast Optimization of Finite-Sum Problems.<br>
+          M Lapucci, D Pucci.<br>
+          <em>arXiv pre-print</em> (2024). <a href="https://arxiv.org/abs/2411.07102">arXiv:2411.07102</a>
+          </li>
+          <li>
+          Effective Front-Descent Algorithms with Convergence Guarantees.<br>
+          M. Lapucci, P. Mansueto, D. Pucci.<br>
+          <em>arXiv pre-print</em> (2024). <a href="https://arxiv.org/abs/2405.08450">1	arXiv:2405.08450</a>
+          </li>
+          <li>
+          Effective Front-Descent Algorithms with Convergence Guarantees.<br>
+          M. Lapucci, P. Mansueto, D. Pucci.<br>
+          <em>arXiv pre-print</em> (2024). <a href="https://arxiv.org/abs/2405.08450">arXiv:2405.08450v3</a>
+          </li>
         </ol>
       </section>
-     
-      <section class="talks">
-        <h2>Talks</h2>
-        <ul>
-          <li><a href="https://europt2025.org/">EUROPT 2025, Southampton</a> — Title</li>
-          <!-- ... altri talk ... -->
-        </ul>
-      </section>
-
-      <section class="software">
-        <h2>Software</h2>
-        <ul>
-          <li>fpd_nmt v1.0.0 — <a href="https://github.com/pierlumanzu/fpd_nmt">github.com/pierlumanzu/fpd_nmt</a></li>
-          <!-- ... altri software ... -->
-        </ul>
-      </section>
-      -->
-
 
       <section class="contacts">
         <h2>Contacts</h2>

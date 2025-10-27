@@ -55,10 +55,10 @@ team:
   - name: Dr. Pierluigi Mansueto
     img: /img/people/pier.jpg
     desc: Postdoc
-    website:  
-    url:
-    github:  
-    linkedin:
+    website: https://gol-unifi.github.io/pages/pierluigi_mansueto/
+    url: https://gol-unifi.github.io/pages/pierluigi_mansueto/
+    github: https://github.com/pierlumanzu
+    linkedin: http://it.linkedin.com/in/pierluigi-mansueto-6a03531a4
     
   - name: Arturo Annunziata 
     img: /img/people/arturo.png

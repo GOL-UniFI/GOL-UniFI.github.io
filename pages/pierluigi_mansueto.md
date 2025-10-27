@@ -25,7 +25,7 @@ title: Pierluigi Mansueto
             <ul>
               <li><a href="https://scholar.google.com/citations?user=5dwG9b8AAAAJ&amp;hl=it">Google Scholar profile</a></li>
               <li>ORCID: <a href="https://orcid.org/0000-0002-1394-0937">0000-0002-1394-0937</a></li>
-              <li><a href="https://webgol.dinfo.unifi.it/wp-content/uploads/2025/05/CV-Pierluigi-Mansueto.pdf">Curriculum Vitae (PDF)</a></li>
+              <li><a href="/files/docs/CV-Pierluigi-Mansueto.pdf">Curriculum Vitae (PDF)</a></li>
               <li>PhD Thesis available <a href="https://flore.unifi.it/retrieve/9b40e7bf-1fa0-40ef-a5dc-fb8ca9303f15/PhD-Thesis_Mansueto.pdf">here</a>.</li>
             </ul>
 

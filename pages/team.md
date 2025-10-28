@@ -71,17 +71,17 @@ team:
   - name: Saliha Busra Gunduz  
     img: /img/people/saliha.png
     desc: Phd Student
-    website:  
-    url:
-    github:  
+    website: 
+    url: 
+    github: 
     linkedin:
     
   - name: Federica Donnini
-    img: /img/people/federica.png
+    img: /img/people/donnini.jpg
     desc: Phd Student
-    website:  
-    url:
-    github:  
+    website: https://gol-unifi.github.io/pages/federica_donnini/
+    url: https://gol-unifi.github.io/pages/federica_donnini/
+    github: https://github.com/dfede3
     linkedin:
     
   - name: Davide Pucci

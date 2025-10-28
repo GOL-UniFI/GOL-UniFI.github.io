@@ -27,7 +27,7 @@ title: Federica Donnini
               <li>ORCID: <a href="https://orcid.org/0009-0004-0377-2046">0000-0002-1394-0937</a></li>
             </ul>
 
-            <img src="/img/people/donnini.jpeg" 
+            <img src="/img/people/donnini2.jpg" 
                  alt="Federica Donnini" 
                  width="160" height="160" 
                  class="profile-photo" />

@@ -19,4 +19,4 @@ document.onreadystatechange = function () {
 }
 </script> 
 
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2FjGLtorJmiJ8vRfJY2&noBootstrap=1&jsonp=1"></script> 
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2FF5N48oZJZYQ6a7PoH&noBootstrap=1&jsonp=1"></script> 

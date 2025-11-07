@@ -21,7 +21,7 @@ title: Matteo Lapucci
             I also deal with mixed-integer optimization models and tools for addressing scheduling and planning tasks from real-world use cases. 
           </p>
 
-          <div class="profile-links-img"
+          <div class="profile-links-img">
 
             <img src="/img/people/ML-sito.jpeg" 
                  alt="Matteo Lapucci" 

@@ -16,11 +16,6 @@ title: Matteo Lapucci
             <a href="http://www.unifi.it/" target="_blank" rel="noopener noreferrer">University of Florence</a>
           </p>
 
-          <p>
-            My research focuses on the development of algorithms for nonlinear optimization in various setups - unconstrained, constrained, multi-objective, black-box - and the application of optimization methods in machine learning, statistics and data science in general.
-            I also deal with mixed-integer optimization models and tools for addressing scheduling and planning tasks from real-world use cases. 
-          </p>
-
           <div class="profile-links-img">
 
             <img src="/img/people/ML-sito.jpeg" 
@@ -28,6 +23,13 @@ title: Matteo Lapucci
                  width="160" height="160" 
                  class="profile-photo" />
           </div>
+
+          <p>
+            My research focuses on the development of algorithms for nonlinear optimization in various setups - unconstrained, constrained, multi-objective, black-box - and the application of optimization methods in machine learning, statistics and data science in general.
+            I also deal with mixed-integer optimization models and tools for addressing scheduling and planning tasks from real-world use cases. 
+          </p>
+
+          
         </div>
       </header>
 

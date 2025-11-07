@@ -48,6 +48,7 @@ title: Matteo Lapucci
           </a> - Room 241, second floor<br>
           E-mail: matteo.lapucci at unifi.it
         </p>
+        <p>Further information available at the official <a>href="https://cercachi.unifi.it/p-doc2-2024-0-A-2d2a35323a30-1.html"<a/>University webpage<p/>
       </section>
 
     </article>

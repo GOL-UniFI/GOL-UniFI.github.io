@@ -29,7 +29,7 @@ team:
     linkedin:
       
   - name: Dr. Matteo Lapucci
-    img: /img/people/ML-site.jpeg
+    img: /img/people/ML-sito.jpeg
     desc: Assistant Professor 
     website: https://gol-unifi.github.io/pages/matteo_lapucci/
     url: https://gol-unifi.github.io/pages/matteo_lapucci/

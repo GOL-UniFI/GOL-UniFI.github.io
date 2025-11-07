@@ -114,9 +114,13 @@ team:
 -->
 
 # Scientific Collaborators
-- [Prof. Fabio Schoen](founder of GOL)
-- [Prof. Fabio Tardella]
-- [Prof. Marco Sciandrone]
+- name: Prof. Fabio Schoen
+- website:https://www.linkedin.com/authwall?trk=gf&trkInfo=AQG2m9aMGk-XUAAAAZpeZ4VQhFriza7-4Fzul3uxlWPpAb5vj_ZbCB7yqi_3W6or9Wumwl_CXccr7URlskFscmRPaQesjyRstHwmShBeF3aH_afUJQFUNes_bjN4LDaajcmxGa0=&original_referer=https://www.google.com/&sessionRedirect=https%3A%2F%2Fit.linkedin.com%2Fin%2Ffabioschoen
+  
+- name: Prof. Fabio Tardella
+  
+- name: Prof. Marco Sciandrone
+  website: https://www.diag.uniroma1.it/users/marco_sciandrone
     
 
 <!--

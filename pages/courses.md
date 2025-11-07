@@ -8,8 +8,8 @@ The Global Optimization Laboratory provides the following courses at the Univers
 
 |Course | Instructor | Program |
 | --- | --- | --- |
-| Fondamenti di Ricerca Operativa | [Fabio Tardella](https://cercachi.unifi.it/p-doc2-0-0-A-3f2c36293b3030.html){:target="_blank"} | Bachelor Management Engineering |
-| Ottimizzazione dei Sistemi Complessi | [Fabio Tardella](https://cercachi.unifi.it/p-doc2-0-0-A-3f2c36293b3030.html){:target="_blank"} | Master Robotics Automation and Electrical Engineering  |
+| Fondamenti di Ricerca Operativa | [Fabio Tardella](https://cercachi.unifi.it/p-doc2-0-0-A-3f2c36293b3030.html){:target="_blank"}, [Pierluigi Mansueto](https://gol-unifi.github.io/pages/pierluigi_mansueto/) | Bachelor Management Engineering |
+<!--| Ottimizzazione dei Sistemi Complessi | [Fabio Tardella](https://cercachi.unifi.it/p-doc2-0-0-A-3f2c36293b3030.html){:target="_blank"} | Master Robotics Automation and Electrical Engineering  |-->
 | Fondamenti di Ricerca Operativa | [Paola Cappanera](https://cercachi.unifi.it/p-doc2-0-0-A-3f2a3d32372a2a.html){:target="_blank"} | Bachelor Information Engineering |
 | Combinatorial Optimization | [Paola Cappanera](https://cercachi.unifi.it/p-doc2-0-0-A-3f2a3d32372a2a.html){:target="_blank"} | Master Information Engineering |
 | Optimization and Data Science for Management | [Paola Cappanera](https://cercachi.unifi.it/p-doc2-0-0-A-3f2a3d32372a2a.html){:target="_blank"}, [Matteo Lapucci](https://cercachi.unifi.it/p-doc2-0-0-A-3f2c342a3b2f31.html){:target="_blank"} | Master Management Engineering |

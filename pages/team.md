@@ -4,14 +4,14 @@ title: Team
 <!-- subtitle: X  -->
 
 team:
-  - name: Prof. Fabio Tardella
+  <!-- - name: Prof. Fabio Tardella
     img: /img/people/fabio.png
     desc: Full Professor
     website:  
     url:
     github:  
     linkedin:   
-    
+    -->
   - name: Prof. Paola Cappanera
     img: /img/people/paola_photo.jpg
     desc: Associate Professor

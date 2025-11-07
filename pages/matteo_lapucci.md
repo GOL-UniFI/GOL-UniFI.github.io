@@ -23,7 +23,7 @@ title: Matteo Lapucci
 
           <div class="profile-links-img"
 
-            <img src="/img/people/ML-sito.JPG" 
+            <img src="/img/people/ML-sito.jpeg" 
                  alt="Matteo Lapucci" 
                  width="160" height="160" 
                  class="profile-photo" />

@@ -21,10 +21,7 @@ title: Matteo Lapucci
             I also deal with mixed-integer optimization models and tools for addressing scheduling and planning tasks from real-world use cases. 
           </p>
 
-          <div class="profile-links-img">
-            <ul>
-              <li><a href="https://scholar.google.com/citations?user=qxaPTogAAAAJ&hl=it&oi=ao">Google Scholar profile</a></li>
-            </ul>
+          <div class="profile-links-img"
 
             <img src="/img/people/ML-sito.JPG" 
                  alt="Matteo Lapucci" 
@@ -48,7 +45,7 @@ title: Matteo Lapucci
           </a> - Room 241, second floor<br>
           E-mail: matteo.lapucci at unifi.it
         </p>
-        <p>Further information available at the official <a>href="https://cercachi.unifi.it/p-doc2-2024-0-A-2d2a35323a30-1.html"<a/>University webpage<p/>
+        <p>Further information available at the official <a href="https://cercachi.unifi.it/p-doc2-2024-0-A-2d2a35323a30-1.html">University webpage<a/><p/>
       </section>
 
     </article>

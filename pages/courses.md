@@ -17,7 +17,7 @@ The Global Optimization Laboratory provides the following courses at the Univers
 | Fondamenti di Ricerca Operativa | [Marianna De Santis](https://cercachi.unifi.it/p-doc2-0-0-A-3f2c372f3a2e2a-0.html){:target="_blank"} | Bachelor Electronic Engineering |
 | Tecniche di Ottimizzazione e Data Science per la bioingegneria | [Marianna De Santis](https://cercachi.unifi.it/p-doc2-0-0-A-3f2c372f3a2e2a-0.html){:target="_blank"} | Bachelor Biomedical Engineering |
 | Operations Research and Optimization | [Marianna De Santis](https://cercachi.unifi.it/p-doc2-0-0-A-3f2c372f3a2e2a-0.html){:target="_blank"} | Master Software: Science and Technology |
-| Optimization Techniques for Machine Learning | [Matteo Lapucci](https://cercachi.unifi.it/p-doc2-0-0-A-3f2c342a3b2f31.html){:target="_blank"}| Master Robotics Automation and Electrical Engineering  |
+| Optimization Techniques for Machine Learning | [Matteo Lapucci](https://cercachi.unifi.it/p-doc2-0-0-A-3f2c342a3b2f31.html){:target="_blank"}| Master Artificial Intelligence  |
 | Optimization Methods | [Matteo Lapucci](https://cercachi.unifi.it/p-doc2-0-0-A-3f2c342a3b2f31.html){:target="_blank"}| Master Information Engineering |
  
 For all students of the University of Florence, the current thesis topics are available on the [thesis]({{ site.baseurl }}{% link pages/theses.md %}) page.

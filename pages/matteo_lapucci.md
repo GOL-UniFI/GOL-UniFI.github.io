@@ -36,7 +36,7 @@ title: Matteo Lapucci
 
       <section class="publications">
         <h2>Publications</h2>
-        <p>For an updated list of publications see my  <a href="[http://www.dinfo.unifi.it/](https://scholar.google.com/citations?user=eOflrC8AAAAJ&hl=it&oi=ao)">Google Scholar page</a></p>
+        <p>For an updated list of publications see my  <a href="https://scholar.google.com/citations?user=eOflrC8AAAAJ&hl=it&oi=ao">Google Scholar page</a></p>
         </section>
 
       

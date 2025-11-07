@@ -51,6 +51,13 @@ Our research is actively being conducted in the following areas:
     </div>
   </div>
 
+<div class="col-lg-6 col-md-12" style="margin-bottom: 2rem;">
+    <div style="text-align: center;">
+      <span class="fa fa-medkit" style="color: #B8860B; font-size: 2.5em; margin-bottom: 0.5rem;"></span>
+      <div><strong>Humanitarian Logistics</strong></div>
+    </div>
+  </div>
+
 </div>
  
 

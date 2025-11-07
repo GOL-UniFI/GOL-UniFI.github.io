@@ -32,7 +32,7 @@ team:
     img: /img/people/ML-site.jpeg
     desc: Assistant Professor 
     website: https://gol-unifi.github.io/pages/matteo_lapucci/
-    url: https://gol-unifi.github.io/pages/tommaso_aldinucci/
+    url: https://gol-unifi.github.io/pages/matteo_lapucci/
     github:  https://github.com/MatteoLapucci
     linkedin:  https://www.linkedin.com/in/matteo-lapucci-6384721b4/?originalSubdomain=it
 

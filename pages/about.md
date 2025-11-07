@@ -5,9 +5,9 @@ title: About us
 ---
 ## GOALS of GOL
 
-Mathematical optimization plays a crucial role in the economy, science, industry, policy-making, and both the public and private sectors.
+Mathematical optimization plays a crucial role in the engineering, science, industry, economy, policy-making, and both the public and private sectors.
 At the intersection of theory and application, our research group specializes in the design and development of innovative optimization models and algorithms. 
-We aim to solutions that not only advance the field of optimization but also have a positive impact on real-world challenges, especially in areas like healthcare management.
+We aim to solutions that not only advance the field of optimization but also have a positive impact on compelling challenges, especially in areas like artificial intelligence and healthcare management.
   
 <!-- Keenly interested in technology transfer, we keep thigh bonds with industrial partners to ensure a continuous and fruitful knowledge exchange between academia and industry.--> 
 
@@ -39,8 +39,15 @@ Our research is actively being conducted in the following areas:
 
   <div class="col-lg-6 col-md-12" style="margin-bottom: 2rem;">
     <div style="text-align: center;">
-      <span class="fa fa-sitemap" style="color: #B8860B; font-size: 2.5em; margin-bottom: 0.5rem;"></span>
+      <span class="fa-solid fa-cubes-stacked" style="color: #B8860B; font-size: 2.5em; margin-bottom: 0.5rem;"></span>
       <div><strong>Global Optimization</strong></div>
+    </div>
+  </div>
+
+  <div class="col-lg-6 col-md-12" style="margin-bottom: 2rem;">
+    <div style="text-align: center;">
+      <span class="fa-solid fa-hexagon-nodes-bolt" style="color: #B8860B; font-size: 2.5em; margin-bottom: 0.5rem;"></span>
+      <div><strong>Optimization in Data Science and AI</strong></div>
     </div>
   </div>
 
@@ -55,6 +62,8 @@ Our research is actively being conducted in the following areas:
 </div>
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
 <div style="text-align: center;"><span class="fa fa fa-arrows-alt icon_square"></span><div> Multi-Objective Optimization </div></div>
+<div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
+<div style="text-align: center;"><span class="fa fa fa-arrows-alt icon_square"></span><div> Optimization in Data Science and AI </div></div>
 </div>
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
   <div style="text-align: center;"><span class="fa fa-dashboard icon_bg icon_square"></span><div> Operations Research for Health-Care Management </div></div>

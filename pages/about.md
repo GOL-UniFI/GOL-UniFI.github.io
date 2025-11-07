@@ -39,14 +39,14 @@ Our research is actively being conducted in the following areas:
 
   <div class="col-lg-6 col-md-12" style="margin-bottom: 2rem;">
     <div style="text-align: center;">
-      <span class="fa fa-cubes-stacked" style="color: #B8860B; font-size: 2.5em; margin-bottom: 0.5rem;"></span>
+      <span class="fa fa-cubes" style="color: #B8860B; font-size: 2.5em; margin-bottom: 0.5rem;"></span>
       <div><strong>Global Optimization</strong></div>
     </div>
   </div>
 
   <div class="col-lg-6 col-md-12" style="margin-bottom: 2rem;">
     <div style="text-align: center;">
-      <span class="fa fa-hexagon-nodes-bolt" style="color: #B8860B; font-size: 2.5em; margin-bottom: 0.5rem;"></span>
+      <span class="fa fa-cogs" style="color: #B8860B; font-size: 2.5em; margin-bottom: 0.5rem;"></span>
       <div><strong>Optimization in Data Science and AI</strong></div>
     </div>
   </div>

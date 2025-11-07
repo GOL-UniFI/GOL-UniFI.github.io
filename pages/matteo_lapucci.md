@@ -25,8 +25,12 @@ title: Matteo Lapucci
           </div>
 
           <p>
-            My research focuses on the development of algorithms for nonlinear optimization in various setups - unconstrained, constrained, multi-objective, black-box - and the application of optimization methods in machine learning, statistics and data science in general.
-            I also deal with mixed-integer optimization models and tools for addressing scheduling and planning tasks from real-world use cases. 
+            My research focuses on 
+            <ol>
+            <li>The development of algorithms for nonlinear optimization in various setups - unconstrained, constrained, multi-objective, black-box.</li>
+            <li>The application of optimization methods in machine learning, statistics and data science in general.</li>
+            <li>Mixed-integer optimization models and tools for addressing scheduling and planning tasks from real-world use cases.</li>
+            </ol>  
           </p>
 
           
@@ -47,7 +51,7 @@ title: Matteo Lapucci
           </a> - Room 241, second floor<br>
           E-mail: matteo.lapucci at unifi.it
         </p>
-        <p>Further information available at the official <a href="https://cercachi.unifi.it/p-doc2-2024-0-A-2d2a35323a30-1.html">University webpage</a>/<p>
+        <p>Further information available at the official <a href="https://cercachi.unifi.it/p-doc2-2024-0-A-2d2a35323a30-1.html">University webpage</a></p>
       </section>
 
     </article>

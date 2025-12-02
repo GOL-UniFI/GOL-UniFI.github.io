@@ -43,7 +43,7 @@ title: Davide Pucci
            <strong>A Globally Convergent Gradient Method with Momentum.</strong><br>
            M. Lapucci, G. Liuzzi, S. Lucidi, D. Pucci, M. Sciandrone.<br>
             <em>Computational Optimization and Applications</em> (2025). DOI: 
-            <a href="">TBD</a>
+            <a href="https://doi.org/10.1007/s10589-025-00741-5">10.1007/s10589-025-00741-5</a>
           </li>
           <li>
           <strong> On the computation of the efficient frontier in advanced sparse portfolio optimization.</strong><br>
@@ -54,7 +54,7 @@ title: Davide Pucci
           <li>
           <strong> Convergence conditions for stochastic line search based optimization of over-parametrized models.</strong><br>
             M. Lapucci, D. Pucci.<br>
-            <em>Sensors</em> (2023). DOI: 
+            <em>Optimization</em> (2025). DOI: 
             <a href="https://doi.org/10.1080/02331934.2025.2551250">10.1080/02331934.2025.2551250</a>
           </li>
           <li>

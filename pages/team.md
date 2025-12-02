@@ -38,7 +38,7 @@ team:
     linkedin:
       
   - name: Dr. Simone Magistri
-    img: /img/people/simone.png
+    img: /img/people/Magistri.jpg
     desc: Postdoc
     website:  
     url:
@@ -54,7 +54,7 @@ team:
     linkedin: http://it.linkedin.com/in/pierluigi-mansueto-6a03531a4
     
   - name: Arturo Annunziata 
-    img: /img/people/arturo.png
+    img: /img/people/annunziata.jpg
     desc: Phd Student
     website:  
     url:
@@ -62,7 +62,7 @@ team:
     linkedin:
  
   - name: Saliha Busra Gunduz  
-    img: /img/people/saliha.png
+    img: /img/people/gunduz.jpg
     desc: Phd Student
     website: 
     url: 

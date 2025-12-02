@@ -24,16 +24,16 @@ team:
   - name: Dr. Matteo Lapucci
     img: /img/people/ML-sito.jpeg
     desc: Assistant Professor 
-    website: https://gol-unifi.github.io/pages/matteo_lapucci/
-    url: https://gol-unifi.github.io/pages/matteo_lapucci/
+    website: /pages/matteo_lapucci/
+    url: /pages/matteo_lapucci/
     github:  https://github.com/MatteoLapucci
     linkedin:  https://www.linkedin.com/in/matteo-lapucci-6384721b4/?originalSubdomain=it
 
   - name: Dr. Tommaso Aldinucci
     img: /img/people/tommaso.JPG
     desc: Postdoc
-    website: https://gol-unifi.github.io/pages/tommaso_aldinucci/
-    url: https://gol-unifi.github.io/pages/tommaso_aldinucci/
+    website: /pages/tommaso_aldinucci/
+    url: /pages/tommaso_aldinucci/
     github: https://github.com/tom1092
     linkedin:
       
@@ -48,8 +48,8 @@ team:
   - name: Dr. Pierluigi Mansueto
     img: /img/people/pier.jpg
     desc: Postdoc
-    website: https://gol-unifi.github.io/pages/pierluigi_mansueto/
-    url: https://gol-unifi.github.io/pages/pierluigi_mansueto/
+    website: /pages/pierluigi_mansueto/
+    url: /pages/pierluigi_mansueto/
     github: https://github.com/pierlumanzu
     linkedin: http://it.linkedin.com/in/pierluigi-mansueto-6a03531a4
     
@@ -72,16 +72,16 @@ team:
   - name: Federica Donnini
     img: /img/people/donnini.jpg
     desc: Phd Student
-    website: https://gol-unifi.github.io/pages/federica_donnini/
-    url: https://gol-unifi.github.io/pages/federica_donnini/
+    website: /pages/federica_donnini/
+    url: /pages/federica_donnini/
     github: https://github.com/dfede3
     linkedin:
     
   - name: Davide Pucci
     img: /img/people/pucci.jpeg
     desc: Phd Student
-    website: https://gol-unifi.github.io/pages/davide_pucci/
-    url: https://gol-unifi.github.io/pages/davide_pucci/
+    website: /pages/davide_pucci/
+    url: /pages/davide_pucci/
     github: https://github.com/dadoPuccio 
     linkedin: https://www.linkedin.com/in/davide-pucci-44a9b3235/
        

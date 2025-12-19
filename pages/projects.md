@@ -41,7 +41,7 @@ The AIRC 2021 ...
 
 
 
-<!
+<!--
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
 <div style="text-align: center">
 <figure>

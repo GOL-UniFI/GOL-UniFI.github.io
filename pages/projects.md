@@ -40,28 +40,30 @@ communities.
 The AIRC 2021 ... 
 <a href="https://www..../">[Read more.]<br><br><br><br></a> 
 </div>
-</div>
+
+
 
 <div><strong style="color: #4A99E9;">AIMS 2021</strong><br>
 <div style="text-align:left;">
 The AIMS 2021 ... 
 <a href="https://www..../">[Read more.]<br><br><br><br></a> 
 </div>
-</div>
+ 
+
 
 <div><strong style="color: #4A99E9;">Optimal Sea Factory 2020</strong><br>
 <div style="text-align:left;">
 The Optimal Sea Factory 2020 ... 
 <a href="https://www..../">[Read more.]<br><br><br><br></a> 
 </div>
-</div>
+ 
 
 <div><strong style="color: #4A99E9;">STIA Assessment I4.0 2020</strong><br>
 <div style="text-align:left;">
 The STIA Assessment I4.0 2020 ... 
 <a href="https://www..../">[Read more.]<br><br><br><br></a> 
 </div>
-</div>
+ 
 
 <!--
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">

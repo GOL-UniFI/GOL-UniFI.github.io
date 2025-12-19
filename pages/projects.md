@@ -43,10 +43,10 @@ The AIRC 2021 ...
 
 
 
-<div><strong style="color: #4A99E9;">AIMS 2021</strong><br>
+<div><strong style="color: #4A99E9;">AIMS</strong><br>
 <div style="text-align:left;">
-The AIMS 2021 ... 
-<a href="https://www..../">[Read more.]<br><br><br><br></a> 
+Artificial Intelligence for the Management of Shifts
+<a href="projects/aims.md">[Read more.]<br><br><br><br></a> 
 </div>
  
 

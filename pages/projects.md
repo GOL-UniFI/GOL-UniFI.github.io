@@ -29,6 +29,8 @@ communities.
 </div>
 -->
 
+</div>
+
 # Past research projects 
 <br>
 <div class="row ">

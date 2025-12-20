@@ -45,8 +45,7 @@ The research was validated using real-world data from the **Bergamo Orio al Seri
 
 | | | |
 |:---:|:---:|:---:|
-| ![POR CreO Toscana](https://via.placeholder.com/150x70?text=POR+CreO+Toscana) | ![Unione Europea](https://via.placeholder.com/150x70?text=EU+Logo) | ![Repubblica Italiana](https://via.placeholder.com/150x70?text=Repubblica+Italiana) |
-| ![Regione Toscana](https://via.placeholder.com/150x70?text=Regione+Toscana) | ![Università di Firenze](https://via.placeholder.com/150x70?text=UNIFI+GOL) | ![FirLab](https://via.placeholder.com/150x70?text=FirLab) |
+| ![POR CreO Toscana - Unione Europea - Repubblica Italiana - Regione Toscana](loghi.png?text=POR+CreO+Toscana) | ![Università di Firenze](unifi.png?text=UNIFI+GOL) | ![FirLab](firlab.png?text=FirLab) |
 
 ```
 

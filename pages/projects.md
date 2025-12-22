@@ -9,7 +9,7 @@ title: Research Projects
 <br>
 <div class="row ">
 
-<!--
+
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
 <div style="text-align: center">
 <figure>
@@ -24,7 +24,7 @@ The project is done in collaboration with MORFO design and focuses on the integr
 </div>
 </div></div>
 </div>
--->
+
 
 
 

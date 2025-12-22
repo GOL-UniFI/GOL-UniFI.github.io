@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AIMS
-<!-- subtitle: Artificial Intelligence for the Management of Shifts  -->
+subtitle: Artificial Intelligence for the Management of Shifts
 ---
 # AIMS: Artificial Intelligence for the Management of Shifts
 

@@ -9,7 +9,7 @@ title: Research Projects
 <br>
 <div class="row ">
 
-<!--
+
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
 <div style="text-align: center">
 <figure>
@@ -20,11 +20,11 @@ title: Research Projects
 <div><strong style="color: #4A99E9;">ML4DAC: Machine Learning and Optimization Methods for the Design of Aerodynamic Components Leveraging Industrial Data Lakes</strong><br>
 <div style="text-align:left;">
 The project is done in collaboration with MORFO design and focuses on the integration of machine learning techniques with optimization methods to improve the design process of aerodynamic components. The objective is to extract meaningful patterns from industrial data for the training of surrogate models capable of accurately predicting the aerodynamic behavior of the components.
- <a href="https://www.morfodesign.it/about/">[Read more.]<br><br><br><br></a> 
+ <a href="https://www.morfodesign.it/about/">[Read more about MORFO design.]<br><br><br><br></a> 
 </div>
 </div></div>
 </div>
--->
+
 
 
 

@@ -125,9 +125,13 @@ team:
 <!-- # Scientific Collaborators-->
 
 # Former Members
-- [Prof. Fabio Schoen - Promoter of GOL!](https://www.linkedin.com/authwall?trk=gf&trkInfo=AQG2m9aMGk-XUAAAAZpeZ4VQhFriza7-4Fzul3uxlWPpAb5vj_ZbCB7yqi_3W6or9Wumwl_CXccr7URlskFscmRPaQesjyRstHwmShBeF3aH_afUJQFUNes_bjN4LDaajcmxGa0=&original_referer=https://www.google.com/&sessionRedirect=https%3A%2F%2Fit.linkedin.com%2Fin%2Ffabioschoen)
+- [Prof. Fabio Schoen - Promoter of
+  GOL!](https://webgol.dinfo.unifi.it/pages/fabio_schoen/)
   
-- [Prof. Fabio Tardella](https://scholar.google.com/citations?user=ysCB0ZsAAAAJ&hl=it)
+<!--[Prof. Fabio Schoen - Promoter of GOL!](https://www.linkedin.com/authwall?trk=gf&trkInfo=AQG2m9aMGk-XUAAAAZpeZ4VQhFriza7-4Fzul3uxlWPpAb5vj_ZbCB7yqi_3W6or9Wumwl_CXccr7URlskFscmRPaQesjyRstHwmShBeF3aH_afUJQFUNes_bjN4LDaajcmxGa0=&original_referer=https://www.google.com/&sessionRedirect=https%3A%2F%2Fit.linkedin.com%2Fin%2Ffabioschoen)
+-->
+
+- [Prof. Fabio Tardella](https://scholar.google.com/citations?user=ysCB0ZsAAAAJ&hl..=it)
   
 - [Prof. Marco Sciandrone](https://www.diag.uniroma1.it/users/marco_sciandrone)
   

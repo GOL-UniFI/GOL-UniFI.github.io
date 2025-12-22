@@ -14,7 +14,7 @@ title: Research Projects
 <div style="text-align: center">
 <figure>
     <img src="/img/logos/MORFO.png"
-         alt="" style="text-align: center; width: 100%;">
+         alt="" style="text-align: center; width: 80%;">
     <figcaption></figcaption>
 </figure>
 <div><strong style="color: #4A99E9;">ML4DAC: Machine Learning and Optimization Methods for the Design of Aerodynamic Components Leveraging Industrial Data Lakes</strong><br>

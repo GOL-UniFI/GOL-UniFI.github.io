@@ -48,10 +48,4 @@ The research was validated using real-world data from the **Bergamo Orio al Seri
 
 | | | |
 |:---:|:---:|:---:|
-| ![POR CreO Toscana - Unione Europea - Repubblica Italiana - Regione Toscana](loghi.png?text=POR+CreO+Toscana) | ![Università di Firenze](unifi.png?text=UNIFI+GOL) | ![FirLab](firlab.png?text=FirLab) |
-
-```
-
-*** 
-*   The **DOI link** provided in the references section leads directly to the published version of your paper in *Expert Systems with Applications*.
-*   The analogy at the end is provided to help non-expert visitors quickly grasp the value of the "Integrated" approach described in the sources.
+| ![POR CreO Toscana - Unione Europea - Repubblica Italiana - Regione Toscana](/pages/projects/loghi.png?text=POR+CreO+Toscana) | ![Università di Firenze](/pages/projects/unifi.png?text=UNIFI+GOL) | ![FirLab](/pages/projects/firlab.png?text=FirLab) |

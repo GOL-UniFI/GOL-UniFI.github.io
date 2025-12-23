@@ -47,24 +47,25 @@ title: Fabio Schoen
 		href="https://scholar.google.com/citations?user=wYmt8csAAAAJ&hl=en">Google
 		Scholar page</a></p> 
 		<p>
-		Besides papers, I have been the author of a few books:
-		<ol>
+		Besides papers, I have been the author of a few books.  The
+		most recent ones are:
+		<ul>
 		<li><a
 		href="https://fabioschoen.github.io/OptimizationModels//">Optimization
 		Models (2024)</a>. Available both as a free on line
 		textbook, as well as a printed hard copy one.</li>
 		<li><a
 		href="https://epubs.siam.org/doi/10.1137/1.9781611972672">Global
-		Optimization: Theorym Algorithms and Applications</a>,
+		Optimization: Theory, Algorithms and Applications</a>,
 		MOS-SIAM Series on Optimizaiton (2013)</li>
 		<li><a
 		href="https://www.amazon.it/Fondamenti-Ricerca-Operativa-Fabio-Schoen/dp/1542342023/ref=asc_df_1542342023?mcid=c1f4143c8b9836d08c90a891ef667a67&tag=googshopit-21&linkCode=df0&hvadid=700838296692&hvpos=&hvnetw=g&hvrand=10814749066914180055&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9198557&hvtargid=pla-371584716643&psc=1&hvocijid=10814749066914180055-1542342023-&hvexpln=0">
 		Fondamenti di Ricerca Operativa</a>, Amazon (2017)</li>
-		</ol>
+		</ul>
 		</p>
 		<p>
 		I have also been a co-founder of two startups:
-		<ol>
+		<ul>
 		<li> KKT srl, founded in 2011 as a Startup of the University
 		of Florence, later acquired by Fleetmatics, now part of <a
 		href="https://www.verizonconnect.com/">Verizon Connect</a>
@@ -72,7 +73,7 @@ title: Fabio Schoen
 		<li><a href="https://intuendi.com/">Intuendi srl</a>, born in
 		2016, specialized in demand planning for the supply chain
 		</li>
-		</ol>
+		</ul>
 		</p>
 </section>
 

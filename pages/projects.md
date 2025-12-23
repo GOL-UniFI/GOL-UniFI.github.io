@@ -65,7 +65,7 @@ The AIRC 2021 ...
 <div><strong style="color: #4A99E9;">AIMS</strong><br>
 <div style="text-align:left;">
 Artificial Intelligence for the Management of Shifts
-<a href="{{ '/pages/projects/aims.html' | relative_url }}">[Read more.]<br><br><br><br></a> 
+<a href="/pages/projects/aims/">[Read more.]<br><br><br><br></a> 
 </div>
  
 

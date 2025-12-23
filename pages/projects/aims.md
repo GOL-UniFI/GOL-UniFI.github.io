@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AIMS
-subtitle: Artificial Intelligence for the Management of Shifts
+permalink: /pages/projects/aims/
 ---
 
 

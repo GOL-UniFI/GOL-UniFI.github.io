@@ -73,7 +73,7 @@ Artificial Intelligence for the Management of Shifts
 <div><strong style="color: #4A99E9;">Optimal Sea Factory 2020</strong><br>
 <div style="text-align:left;">
 The Optimal Sea Factory 2020 ... 
-<a href="https://www..../">[Read more.]<br><br><br><br></a> 
+<a href="/pages/projects/seafactory/">[Read more.]<br><br><br><br></a> 
 </div>
  
 

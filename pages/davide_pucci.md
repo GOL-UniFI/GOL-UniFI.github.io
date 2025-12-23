@@ -82,13 +82,13 @@ title: Davide Pucci
           <em>arXiv pre-print</em> (2025). <a href="https://arxiv.org/abs/2503.21631">arXiv:2503.21631</a>
           </li>
           <li>
-          <strong> Effectively Leveraging Momentum Terms in Stochastic Line Search Frameworks for Fast Optimization of Finite-Sum Problems</strong>.<br>
+          <strong> Effectively Leveraging Momentum Terms in Stochastic Line Search Frameworks for Fast Optimization of Finite-Sum Problems.</strong><br>
           M Lapucci, D Pucci.<br>
           <em>arXiv pre-print</em> (2024). <a href="https://arxiv.org/abs/2411.07102">arXiv:2411.07102</a>
           </li>
           <li>
-          <strong> Effective Front-Descent Algorithms with Convergence Guarantees.<br>
-          M. Lapucci, P. Mansueto, D. Pucci.</strong><br>
+          <strong> Effective Front-Descent Algorithms with Convergence Guarantees.</strong><br>
+          M. Lapucci, P. Mansueto, D. Pucci.<br>
           <em>arXiv pre-print</em> (2024). <a href="https://arxiv.org/abs/2405.08450">arXiv:2405.08450</a>
           </li>
         </ol>

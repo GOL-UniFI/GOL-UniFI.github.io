@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AIMS
+title: Sii-Mobility
 permalink: /pages/projects/sii_mobility/
 ---
 

@@ -21,20 +21,18 @@ OptimalSeaFactory is an optimization system designed to improve efficiency in op
 
 ## Research Team
 
-**GOL Laboratory / University of Florence**
-- Prof. Fabio Schoen
+** GOL Laboratory / University of Florence 
+- [Prof. Fabio Schoen](/pages/fabio_schoen/)
 - Dr. Eng. Tommaso Levato
 - Dr. Eng. Luca Tigli
 
 ## Project partners
-*   ** Industrial Partner: **  [Resolvo
-    S.r.l.](https://www.resolvo.eu/case-studies/seafactory-la-fabbrica-del-mare/)
+*    [Resolvo S.r.l.](https://www.resolvo.eu/case-studies/seafactory-la-fabbrica-del-mare/)
 *   [Quid Informatica SpA](https://quid.eu/)
 
-** Resolvo - Responsible Solutions
 ---
 
-## What It Does
+## What has been done
 
 ### 1. Smart Cage Selection
 Determines which cages to harvest from and how much fish to extract based on:

@@ -77,12 +77,13 @@ The Optimal Sea Factory 2020 ...
 </div>
  
 
-<div><strong style="color: #4A99E9;">STIA Assessment I4.0 2020</strong><br>
-<div style="text-align:left;">
-The STIA Assessment I4.0 2020 ... 
-<a href="https://www..../">[Read more.]<br><br><br><br></a> 
+
+<div><strong style="color: #4A99E9;">Sii Mobility</strong><br>
+<div style="text-align:left;"> 
+Multi-Objective Route Planning on Multimodal Networks<a href="/pages/projects/sii_mobility/">[Read more.]<br><br><br><br></a> 
 </div>
  
+
 
 <!--
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">

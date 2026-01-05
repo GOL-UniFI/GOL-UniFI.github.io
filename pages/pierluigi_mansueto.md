@@ -41,6 +41,21 @@ title: Pierluigi Mansueto
     <h2>Publications</h2>
     <ol>
         <li>
+        <strong>Combining Gradient Information and Primitive Directions for High-Performance Mixed-Integer Optimization.</strong><br>
+        M. Lapucci, G. Liuzzi, S. Lucidi, P. Mansueto.<br>
+        <em>Accepted in Journal of Global Optimization</em> (2025). DOI: <a href="https://doi.org/10.48550/arXiv.2407.14416">10.48550/arXiv.2407.14416</a>
+        </li>
+        <li>
+        <strong>Effective Front-Descent Algorithms with Convergence Guarantees.</strong><br>
+        M. Lapucci, P. Mansueto, D. Pucci.<br>
+        <em>Accepted in SIAM Journal on Optimization</em> (2025). DOI: <a href="https://doi.org/10.48550/arXiv.2405.08450">10.48550/arXiv.2405.08450</a>
+        </li>
+        <li>
+        <strong>Efficiently Solving Semi-supervised Clustering Problems Through Differential Evolution and Local Optimization.</strong><br>
+        P. Mansueto, F. Schoen.<br>
+        <em>Journal of Classification</em> (2025). DOI: <a href="https://doi.org/10.1007/s00357-025-09528-z">10.1007/s00357-025-09528-z</a>
+        </li>
+        <li>
         <strong>On the computation of the efficient frontier in advanced sparse portfolio optimization.</strong><br>
         A. Annunziata, M. Lapucci, P. Mansueto, D. Pucci.<br>
         <em>4OR</em> (2025). DOI: <a href="https://doi.org/10.1007/s10288-025-00600-3">10.1007/s10288-025-00600-3</a>
@@ -110,21 +125,6 @@ title: Pierluigi Mansueto
         <strong>Projection-based curve pattern search for black-box optimization over smooth convex sets.</strong><br>
         X. Jia, M. Lapucci, P. Mansueto.<br>
         <em>ArXiv pre-print</em> (2025). DOI: <a href="https://doi.org/10.48550/arXiv.2503.20616">10.48550/arXiv.2503.20616</a>
-        </li>
-        <li>
-        <strong>Combining Gradient Information and Primitive Directions for High-Performance Mixed-Integer Optimization.</strong><br>
-        M. Lapucci, G. Liuzzi, S. Lucidi, P. Mansueto.<br>
-        <em>ArXiv pre-print</em> (2024). DOI: <a href="https://doi.org/10.48550/arXiv.2407.14416">10.48550/arXiv.2407.14416</a>
-        </li>
-        <li>
-        <strong>Effective Front-Descent Algorithms with Convergence Guarantees.</strong><br>
-        M. Lapucci, P. Mansueto, D. Pucci.<br>
-        <em>ArXiv pre-print</em> (2024). DOI: <a href="https://doi.org/10.48550/arXiv.2405.08450">10.48550/arXiv.2405.08450</a>
-        </li>
-        <li>
-        <strong>Memetic Differential Evolution Methods for Semi-Supervised Clustering.</strong><br>
-        P. Mansueto, F. Schoen.<br>
-        <em>ArXiv pre-print</em> (2024). DOI: <a href="https://doi.org/10.48550/arXiv.2403.04322">10.48550/arXiv.2403.04322</a>
         </li>
     </ol>
     </section>
@@ -214,7 +214,7 @@ title: Pierluigi Mansueto
           <a href="http://maps.google.it/maps?f=q&source=s_q&hl=it&q=via+di+santa+marta,+3,+firenze" target="_blank" rel="noopener noreferrer">
             Via di Santa Marta, 3 – 50139 Firenze (FI), Italy
           </a><br>
-          E-mail: pierluigi dot mansueto at unifi dot it, pierluigimansueto at gmail dot com
+          E-mail: pierluigi dot mansueto at unifi dot it
         </p>
       </section>
 

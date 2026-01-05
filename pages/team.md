@@ -60,6 +60,14 @@ team:
     url:
     github:  
     linkedin:
+
+  - name: Francesco Bellezza
+    img: /img/people/Bellezza.jpg
+    desc: Phd Student
+    website:
+    url:  
+    github:   
+    linkedin:  
  
   - name: Saliha Busra Gunduz  
     img: /img/people/gunduz.jpg
@@ -84,14 +92,6 @@ team:
     url: /pages/davide_pucci/
     github: https://github.com/dadoPuccio 
     linkedin: https://www.linkedin.com/in/davide-pucci-44a9b3235/
-
-  - name: Francesco Bellezza
-    img: /img/people/ 
-    desc: Phd Student
-    website:
-    url:  
-    github:   
-    linkedin:  
 
        
 ---

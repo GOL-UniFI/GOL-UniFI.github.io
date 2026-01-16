@@ -41,14 +41,14 @@ title: Pierluigi Mansueto
     <h2>Publications</h2>
     <ol>
         <li>
-        <strong>Combining Gradient Information and Primitive Directions for High-Performance Mixed-Integer Optimization.</strong><br>
-        M. Lapucci, G. Liuzzi, S. Lucidi, P. Mansueto.<br>
-        <em>Accepted in Journal of Global Optimization</em> (2025). DOI: <a href="https://doi.org/10.48550/arXiv.2407.14416">10.48550/arXiv.2407.14416</a>
-        </li>
-        <li>
         <strong>Effective Front-Descent Algorithms with Convergence Guarantees.</strong><br>
         M. Lapucci, P. Mansueto, D. Pucci.<br>
         <em>Accepted in SIAM Journal on Optimization</em> (2025). DOI: <a href="https://doi.org/10.48550/arXiv.2405.08450">10.48550/arXiv.2405.08450</a>
+        </li>
+        <li>
+        <strong>Combining Gradient Information and Primitive Directions for High-Performance Mixed-Integer Optimization.</strong><br>
+        M. Lapucci, G. Liuzzi, S. Lucidi, P. Mansueto.<br>
+        <em>Journal of Global Optimization</em> (2026). DOI: <a href=" https://doi.org/10.1007/s10898-025-01583-5">10.1007/s10898-025-01583-5</a>
         </li>
         <li>
         <strong>Efficiently Solving Semi-supervised Clustering Problems Through Differential Evolution and Local Optimization.</strong><br>

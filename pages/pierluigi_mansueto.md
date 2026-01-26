@@ -63,7 +63,7 @@ title: Pierluigi Mansueto
         <li>
         <strong>Optimization-Driven Design of Monolithic Soft-Rigid Grippers.</strong><br>
         P. Mansueto, M. Dragusanu, A. Saeed, M. Malvezzi, M. Lapucci, G. Salvietti.<br>
-        <em>Soft Robotics</em> (2025). DOI: <a href="https://www.liebertpub.com/doi/abs/10.1177/21695172251359016">10.1177/21695172251359016</a>
+        <em>Soft Robotics</em> (2025). DOI: <a href="https://doi.org/10.1177/21695172251359016">10.1177/21695172251359016</a>
         </li>
         <li>
         <strong>A Bi-Objective Optimization Based Acquisition Strategy for Batch Bayesian Global Optimization.</strong><br>

@@ -77,6 +77,11 @@ title: Davide Pucci
         <h2>Preprints</h2>
         <ol>
           <li>
+          <strong> Sample-wise Constrained Learning via a Sequential Penalty Approach with Applications in Image Processing.</strong><br>
+          F Lanzillotta, C Albisani, D Pucci, D Baracchi, A Piva, M Lapucci.<br>
+          <em>arXiv pre-print</em> (2026). <a href="https://arxiv.org/abs/2601.16812">arXiv:2601.16812</a>
+          </li>
+          <li>
           <strong> Penalty decomposition derivative free method for the minimization of partially separable functions over a convex feasible set.</strong><br>
           F Cecere, M Lapucci, D Pucci, M Sciandrone.<br>
           <em>arXiv pre-print</em> (2025). <a href="https://arxiv.org/abs/2503.21631">arXiv:2503.21631</a>

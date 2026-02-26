@@ -4,11 +4,12 @@ title: Global Optimization Laboratory "Gerardo Poggiali"
 <!-- subtitle: X  -->
 ---
 ## GOALS of GOL 
-
+<div style="text-align: center;">
 Mathematical optimization plays a crucial role in the engineering, science, industry, economy, policy-making, and both the public and private sectors.
 At the intersection of theory and application, our research group specializes in the design and development of innovative optimization models and algorithms. 
 We aim to solutions that not only advance the field of optimization but also have a positive impact on compelling challenges, especially in areas like artificial intelligence and healthcare management.
-  
+</div>div>
+
 <!-- Keenly interested in technology transfer, we keep thigh bonds with industrial partners to ensure a continuous and fruitful knowledge exchange between academia and industry.--> 
 
 ## Focus
@@ -61,7 +62,7 @@ Our research is actively being conducted in the following areas:
 </div>
 
 ## HYSTORY of GOL 
-
+<div style="text-align: center;">
 Our laboratory is named in honor of Gerardo Poggiali. 
 
 Below, we present a tribute written by Professor Fabio Schoen.
@@ -72,7 +73,7 @@ mathematical knowledge, his rigorous programming, but most of all we miss his go
 Gerardo graduated in Ingegneria Informatica in September 2002 with a thesis on trust region methods for large scale optimization; after graduation he started a collaboration with our research group with the aim of developing a library of fast and reliable software for unconstrained local and global optimization. He developed some very efficient and clean code (he was extremely rigorous, almost an idealist, in programming and, I guess, in his too short life). This was intended to be the base for a much larger and ambitious project. We are all committed now to carry on with this project, even if we know that, without Gerardo, the difficulties will be great.
 
 Firenze, January 21, 2004"
-
+</div>
 
  
 

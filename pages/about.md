@@ -9,7 +9,7 @@ Mathematical optimization plays a crucial role in the engineering, science, indu
 At the intersection of theory and application, our research group specializes in the design and development of innovative optimization models and algorithms. 
 
 <p>We aim to solutions that not only advance the field of optimization but also have a positive impact on compelling challenges, especially in areas like artificial intelligence and healthcare management.</p>
-</div>div>
+</div>
 
 <!-- Keenly interested in technology transfer, we keep thigh bonds with industrial partners to ensure a continuous and fruitful knowledge exchange between academia and industry.--> 
 

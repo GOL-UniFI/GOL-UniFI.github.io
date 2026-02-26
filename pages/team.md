@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Team
+title: Current team
 <!-- subtitle: X  -->
 
 team:

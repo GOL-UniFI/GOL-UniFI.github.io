@@ -7,7 +7,8 @@ title: Global Optimization Laboratory "Gerardo Poggiali"
 <div style="text-align: justify;">
 Mathematical optimization plays a crucial role in the engineering, science, industry, economy, policy-making, and both the public and private sectors.
 At the intersection of theory and application, our research group specializes in the design and development of innovative optimization models and algorithms. 
-We aim to solutions that not only advance the field of optimization but also have a positive impact on compelling challenges, especially in areas like artificial intelligence and healthcare management.
+
+<p>We aim to solutions that not only advance the field of optimization but also have a positive impact on compelling challenges, especially in areas like artificial intelligence and healthcare management.</p>
 </div>div>
 
 <!-- Keenly interested in technology transfer, we keep thigh bonds with industrial partners to ensure a continuous and fruitful knowledge exchange between academia and industry.--> 

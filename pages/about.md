@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About us
+title: Global Optimization Laboratory "Gerardo Poggiali"
 <!-- subtitle: X  -->
 ---
-## GOALS of GOL (Global Optimization Laboratory "Gerardo Poggiali")
+## GOALS of GOL 
 
 Mathematical optimization plays a crucial role in the engineering, science, industry, economy, policy-making, and both the public and private sectors.
 At the intersection of theory and application, our research group specializes in the design and development of innovative optimization models and algorithms. 

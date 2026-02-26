@@ -60,7 +60,7 @@ Our research is actively being conducted in the following areas:
 
 </div>
 
-## HYSTORY of GOL - a memory from Prof. Fabio Schoen:
+## HYSTORY of GOL - a memory from Prof. Fabio Schoen
 
 Our laboratory is named after Gerardo Poggiali.
 

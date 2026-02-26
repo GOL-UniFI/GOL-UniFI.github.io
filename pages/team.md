@@ -68,14 +68,6 @@ team:
     url:  
     github:   
     linkedin:  
- 
-  - name: Saliha Busra Gunduz  
-    img: /img/people/gunduz.jpg
-    desc: Phd Student
-    website: 
-    url: 
-    github: 
-    linkedin:
     
   - name: Federica Donnini
     img: /img/people/donnini.jpg
@@ -97,50 +89,5 @@ team:
 ---
 
 
-  <!-- - name: Dr. Imad Zaza
-    img: /img/people/imad.png
-    desc: DevOps Group Engineer
-    website: https://www.linkedin.com/in/imad-zaza-521b8a33/?originalSubdomain=it
-    url: https://www.linkedin.com/in/imad-zaza-521b8a33/?originalSubdomain=it
--->
-
-
 {% include list-squares.html items=page.team %}
 
-<!--
-# Associated Members
-- [Prof. Dr. Hans van Vliet](https://scholar.google.it/citations?user=4YAdfEsAAAAJ&hl=it&oi=ao)
-- [Prof. Dr. Gerrit van der Veer](https://www.cs.vu.nl/~gerrit/)
-- [Prof. Dr. Chris Verhoef](https://www.cs.vu.nl/~x/)
--->
-<!-- 
-# Researcher assistants
-- [Dr. Jacopo Parri](https://www.unifi.it/p-doc2-2020-0-A-2c3337293730-0.html)
-- [Dr. Samuele Sampietro](https://www.linkedin.com/in/samuele-sampietro/)
-- [Boris Brizzi](https://www.linkedin.com/in/boris-brizzi-099592117/)
-- [Stefania Cerboni](https://www.linkedin.com/in/stefania-cerboni-66407a145/)
-- Nicola Bertocci
--->
-
-<!-- # Scientific Collaborators-->
-
-# Former Members
-- [Prof. Fabio Schoen - Promoter of
-  GOL!](https://webgol.dinfo.unifi.it/pages/fabio_schoen/)
-  
-<!--[Prof. Fabio Schoen - Promoter of GOL!](https://www.linkedin.com/authwall?trk=gf&trkInfo=AQG2m9aMGk-XUAAAAZpeZ4VQhFriza7-4Fzul3uxlWPpAb5vj_ZbCB7yqi_3W6or9Wumwl_CXccr7URlskFscmRPaQesjyRstHwmShBeF3aH_afUJQFUNes_bjN4LDaajcmxGa0=&original_referer=https://www.google.com/&sessionRedirect=https%3A%2F%2Fit.linkedin.com%2Fin%2Ffabioschoen)
--->
-
-- [Prof. Fabio Tardella](https://scholar.google.com/citations?user=ysCB0ZsAAAAJ&hl..=it)
-  
-- [Prof. Marco Sciandrone](https://www.diag.uniroma1.it/users/marco_sciandrone)
-  
-    
-
-<!--
-# Former Members
-- ? [e.g., former graduated Ph.D. Student]
--->
-<!--
-# Guests
- - [Dr. Marco Paolieri](https://qed.usc.edu/paolieri/) -->

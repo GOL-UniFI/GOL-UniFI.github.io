@@ -62,9 +62,8 @@ Our research is actively being conducted in the following areas:
 
 ## HYSTORY of GOL 
 
-Our laboratory is named after Gerardo Poggiali.
-
-In the following a memory of Prof. Fabio Schoen:
+Our laboratory is named in honor of Gerardo Poggiali. 
+Below, we present a tribute written by Professor Fabio Schoen.
 
 "Gerardo has been an extremely brilliant student with whom we, the Global Optimization Group of the Engineering Faculty of the University of Florence, had the opportunity to work and collaborate. Gerardo died suddenly in December 2003 and left all of us with an enormous pain: we all miss his great technical skills, his
 mathematical knowledge, his rigorous programming, but most of all we miss his good character, his deep thinking, his humour. In short we miss him really much.

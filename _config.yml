@@ -22,7 +22,7 @@ navbar-links:
   About us: "pages/about"
   Members of GOL: 
     - Team: "pages/team"
-    - GOL Promoter: "pages/fabio_schoen"
+    - Prof. Fabio Schoen - GOL Promoter: "pages/fabio_schoen"
     - Past Members: "pages/past_members" 
   Teaching:
     - Courses: "pages/courses" 

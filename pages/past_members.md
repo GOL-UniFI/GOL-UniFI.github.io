@@ -9,6 +9,8 @@ title: Past Members of GOL
 - [Prof. Marco Sciandrone](https://www.diag.uniroma1.it/users/marco_sciandrone) now at [Sapienza](https://www.uniroma1.it/it/pagina-strutturale/home)
 
 - [Prof. Fabio Tardella](https://scholar.google.com/citations?user=ysCB0ZsAAAAJ&hl..=it)
+
+- Dr. Saliha Busra Gunduz
   
 - [Dr. Francesco Carciaghi](https://www.linkedin.com/in/francesco-carciaghi-2781a7201)
   

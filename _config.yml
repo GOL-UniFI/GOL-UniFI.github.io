@@ -20,9 +20,9 @@ rss-description: "Global Optimization Laboratory • University of Florence"
 # List of links in the navigation bar
 navbar-links:
   About us: "pages/about"
-  Team: 
-    - Current Team: "pages/team"
-    - Promoter of GOL: "pages/fabio_schoen"
+  People: 
+    - Team: "pages/team"
+    - GOL Promoter: "pages/fabio_schoen"
     - Past Members: "pages/past_members" 
   Teaching:
     - Courses: "pages/courses" 

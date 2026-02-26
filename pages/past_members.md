@@ -2,8 +2,9 @@
 layout: page
 title: Past Members of GOL
 <!-- subtitle: X  -->
+---
 
-- [Prof. Fabio Schoen](pages/fabio_schoen)
+- [Prof. Fabio Schoen](https://webgol.dinfo.unifi.it/pages/fabio_schoen/)
 
 - [Prof. Marco Sciandrone](https://www.diag.uniroma1.it/users/marco_sciandrone) now at [Sapienza](https://www.uniroma1.it/it/pagina-strutturale/home)
 
@@ -61,4 +62,4 @@ title: Past Members of GOL
 
 - [Ing. Paolo Frosini](https://www.linkedin.com/in/paolo-frosini-75a094a/) (PhD) now at [Resolvo s.r.l.](http://www.resolvo.eu) (Managing Director)
 
-- [Gerardo Poggiali](pages/about)
+- [Gerardo Poggiali](https://webgol.dinfo.unifi.it/pages/about/)

@@ -60,16 +60,18 @@ Our research is actively being conducted in the following areas:
 
 </div>
 
-## HYSTORY of GOL - a memory from Prof. Fabio Schoen
+## HYSTORY of GOL 
 
 Our laboratory is named after Gerardo Poggiali.
 
-Gerardo has been an extremely brilliant student with whom we, the Global Optimization Group of the Engineering Faculty of the University of Florence, had the opportunity to work and collaborate. Gerardo died suddenly in December 2003 and left all of us with an enormous pain: we all miss his great technical skills, his
+In the following a memory of Prof. Fabio Schoen:
+
+"Gerardo has been an extremely brilliant student with whom we, the Global Optimization Group of the Engineering Faculty of the University of Florence, had the opportunity to work and collaborate. Gerardo died suddenly in December 2003 and left all of us with an enormous pain: we all miss his great technical skills, his
 mathematical knowledge, his rigorous programming, but most of all we miss his good character, his deep thinking, his humour. In short we miss him really much.
 
 Gerardo graduated in Ingegneria Informatica in September 2002 with a thesis on trust region methods for large scale optimization; after graduation he started a collaboration with our research group with the aim of developing a library of fast and reliable software for unconstrained local and global optimization. He developed some very efficient and clean code (he was extremely rigorous, almost an idealist, in programming and, I guess, in his too short life). This was intended to be the base for a much larger and ambitious project. We are all committed now to carry on with this project, even if we know that, without Gerardo, the difficulties will be great.
 
-Firenze, January 21, 2004
+Firenze, January 21, 2004"
 
 
  

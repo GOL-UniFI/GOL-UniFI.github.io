@@ -21,7 +21,7 @@ rss-description: "Global Optimization Laboratory • University of Florence"
 navbar-links:
   About us: "pages/about"
   Members of GOL: 
-    - Prof. Fabio Schoen - GOL Promoter: "pages/fabio_schoen"
+    - Prof. Fabio Schoen GOL Promoter: "pages/fabio_schoen"
     - Current team: "pages/team"
     - Past Members: "pages/past_members" 
   Teaching:

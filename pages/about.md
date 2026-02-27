@@ -62,7 +62,7 @@ Our research is actively being conducted in the following areas:
 
 </div>
 
-## HYSTORY of GOL 
+## HISTORY of GOL 
 <div style="text-align: justify;">
 <p>Our laboratory is named in honor of Gerardo Poggiali.</p> 
 

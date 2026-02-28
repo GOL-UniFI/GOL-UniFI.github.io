@@ -18,13 +18,13 @@ title: Federica Donnini
 
           <p>
             My research interests are optimization techniques and humanitarian logistics applications.
-            I have mainly worked on stochastic optimization problems, with a focus on Benders decomposition and the K-adaptability approach.
+            My current work focuses on optimization under uncertainty, both stochastic programming (Benders decomposition and the K-adaptability approach for two-stage stochastic programs) and robust optimization. 
           </p>
 
           <div class="profile-links-img">
             <ul>
               <li><a href="https://scholar.google.com/citations?user=BPyV6xoAAAAJ&hl=en&oi=ao">Google Scholar profile</a></li>
-              <li>ORCID: <a href="https://orcid.org/0009-0004-0377-2046">0000-0002-1394-0937</a></li>
+              <li>ORCID: <a href="https://orcid.org/0009-0004-0377-2046">0009-0004-0377-2046</a></li>
             </ul>
 
             <img src="/img/people/donnini2.jpg" 
@@ -50,12 +50,28 @@ title: Federica Donnini
         <em>ArXiv pre-print</em> (2025). DOI: <a href="https://doi.org/10.48550/arXiv.2505.19705">10.48550/arXiv.2505.19705</a>
         </li>
     </ol>
+    <li>
+        <strong>K-adaptability for two-stage stochastic optimization.</strong><br>
+        F. Donnini, M. De Santis, J. Kurtz.<br>
+        <em>Optimization Online pre-print</em> (2025). DOI: <a href="https://optimization-online.org/?p=32681">optimization-online.org/?p=32681</a>
+        </li>
+    </ol>
+    <li>
+        <strong>Heuristics for two-stage stochastic K-adaptability.</strong><br>
+        M. De Santis, F. Donnini.<br>
+        <em>Optimization Online pre-print</em> (2026). DOI: <a href="https://optimization-online.org/?p=33450">optimization-online.org/?p=33450</a>
+        </li>
+    </ol>
     </section>
 
 
       <section class="talks">
         <h2>Talks</h2>
         <ul>
+
+        <li>
+        <a href="https://ayw2026.github.io/">AIROYoung Workshop 2026, Padova</a> — Heuristics for two-stage stochastic 𝐾-adaptability
+        </li>
 
         <li>
         <a href="https://euroyoung.eu/naples2025/">EUROYoung Workshop 2025, Naples</a> — On K-adaptability for two-stage stochastic programs

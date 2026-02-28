@@ -49,14 +49,14 @@ title: Federica Donnini
         F. Donnini, M. Lapucci, P. Mansueto.<br>
         <em>ArXiv pre-print</em> (2025). DOI: <a href="https://doi.org/10.48550/arXiv.2505.19705">10.48550/arXiv.2505.19705</a>
         </li>
-    </ol>
-    <li>
+
+        <li>
         <strong>K-adaptability for two-stage stochastic optimization.</strong><br>
         F. Donnini, M. De Santis, J. Kurtz.<br>
         <em>Optimization Online pre-print</em> (2025). DOI: <a href="https://optimization-online.org/?p=32681">optimization-online.org/?p=32681</a>
         </li>
-    </ol>
-    <li>
+
+        <li>
         <strong>Heuristics for two-stage stochastic K-adaptability.</strong><br>
         M. De Santis, F. Donnini.<br>
         <em>Optimization Online pre-print</em> (2026). DOI: <a href="https://optimization-online.org/?p=33450">optimization-online.org/?p=33450</a>

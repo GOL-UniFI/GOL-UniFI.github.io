@@ -41,6 +41,11 @@ title: Pierluigi Mansueto
     <h2>Publications</h2>
     <ol>
         <li>
+        <strong>Projection-based curve pattern search for black-box optimization over smooth convex sets.</strong><br>
+        X. Jia, M. Lapucci, P. Mansueto.<br>
+        <em>Accepted in Optimization Methods and Software</em> (2026). DOI: <a href="https://doi.org/10.48550/arXiv.2503.20616">10.48550/arXiv.2503.20616</a>
+        </li>
+        <li>
         <strong>Effective Front-Descent Algorithms with Convergence Guarantees.</strong><br>
         M. Lapucci, P. Mansueto, D. Pucci.<br>
         <em>Accepted in SIAM Journal on Optimization</em> (2025). DOI: <a href="https://doi.org/10.48550/arXiv.2405.08450">10.48550/arXiv.2405.08450</a>
@@ -112,6 +117,11 @@ title: Pierluigi Mansueto
     <h2>Preprints</h2>
     <ol>
         <li>
+        <strong>A heavy-ball type curve search method for smooth convexly constrained optimization.</strong><br>
+        F. Donnini, P. Mansueto.<br>
+        <em>ArXiv pre-print</em> (2025). DOI: <a href="https://doi.org/10.48550/arXiv.2603.19032">10.48550/arXiv.2603.19032</a>
+        </li>
+        <li>
         <strong>A Nonmonotone Front Descent Method for Bound-Constrained Multi-Objective Optimization.</strong><br>
         P. Mansueto.<br>
         <em>ArXiv pre-print</em> (2025). DOI: <a href="https://doi.org/10.48550/arXiv.2509.02409">10.48550/arXiv.2509.02409</a>
@@ -120,11 +130,6 @@ title: Pierluigi Mansueto
         <strong>Efficient globalization of heavy-ball type methods for unconstrained optimization based on curve searches.</strong><br>
         F. Donnini, M. Lapucci, P. Mansueto.<br>
         <em>ArXiv pre-print</em> (2025). DOI: <a href="https://doi.org/10.48550/arXiv.2505.19705">10.48550/arXiv.2505.19705</a>
-        </li>
-        <li>
-        <strong>Projection-based curve pattern search for black-box optimization over smooth convex sets.</strong><br>
-        X. Jia, M. Lapucci, P. Mansueto.<br>
-        <em>ArXiv pre-print</em> (2025). DOI: <a href="https://doi.org/10.48550/arXiv.2503.20616">10.48550/arXiv.2503.20616</a>
         </li>
     </ol>
     </section>
@@ -191,6 +196,7 @@ title: Pierluigi Mansueto
         <h2>Software</h2>
         <ul>
 
+        <li>constrained_scs v1.0.0 — <a href="https://github.com/pierlumanzu/constrained_scs">github.com/pierlumanzu/constrained_scs</a></li>
         <li>fpd_nmt v1.0.0 — <a href="https://github.com/pierlumanzu/fpd_nmt">github.com/pierlumanzu/fpd_nmt</a></li>
         <li>cs_hb v1.0.0 — <a href="https://github.com/dfede3/cs_hb">github.com/dfede3/cs_hb</a></li>
         <li>FSP v1.0.0 — <a href="https://github.com/pierlumanzu/FSP">github.com/pierlumanzu/FSP</a></li>

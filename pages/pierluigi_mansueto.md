@@ -43,7 +43,7 @@ title: Pierluigi Mansueto
         <li>
         <strong>Projection-based curve pattern search for black-box optimization over smooth convex sets.</strong><br>
         X. Jia, M. Lapucci, P. Mansueto.<br>
-        <em>Accepted in Optimization Methods and Software</em> (2026). DOI: <a href="https://doi.org/10.48550/arXiv.2503.20616">10.48550/arXiv.2503.20616</a>
+        <em>Optimization Methods and Software</em> (2026). DOI: <a href="https://doi.org/10.1080/10556788.2026.2647280">10.1080/10556788.2026.2647280</a>
         </li>
         <li>
         <strong>Effective Front-Descent Algorithms with Convergence Guarantees.</strong><br>

@@ -46,9 +46,10 @@ title: Pierluigi Mansueto
         <em>Optimization Methods and Software</em> (2026). DOI: <a href="https://doi.org/10.1080/10556788.2026.2647280">10.1080/10556788.2026.2647280</a>
         </li>
         <li>
-        <strong>Effective Front-Descent Algorithms with Convergence Guarantees.</strong><br>
+        <strong> Effective Front-Descent Algorithms with Convergence Guarantees.</strong><br>
         M. Lapucci, P. Mansueto, D. Pucci.<br>
-        <em>Accepted in SIAM Journal on Optimization</em> (2025). DOI: <a href="https://doi.org/10.48550/arXiv.2405.08450">10.48550/arXiv.2405.08450</a>
+        <em>SIAM Journal on Optimization</em> (2026). DOI: 
+        <a href="https://doi.org/10.1137/25M1726856">10.1137/25M1726856</a>
         </li>
         <li>
         <strong>Combining Gradient Information and Primitive Directions for High-Performance Mixed-Integer Optimization.</strong><br>

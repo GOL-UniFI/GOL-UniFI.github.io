@@ -40,6 +40,12 @@ title: Davide Pucci
         <h2>Publications</h2>
         <ol>
           <li>
+            <strong> Effective Front-Descent Algorithms with Convergence Guarantees.</strong><br>
+            M. Lapucci, P. Mansueto, D. Pucci.<br>
+            <em>SIAM Journal on Optimization</em> (2026). DOI: 
+            <a href="https://doi.org/10.1137/25M1726856">10.1137/25M1726856</a>
+          </li>
+          <li>
             <strong> Effectively Leveraging Momentum Terms in Stochastic Line Search Frameworks for Fast Optimization of Finite-Sum Problems.</strong><br>
             M Lapucci, D Pucci.<br>
             <em>Computational Optimization and Applications</em> (2026). DOI:
@@ -92,11 +98,6 @@ title: Davide Pucci
           <strong> Sample-wise Constrained Learning via a Sequential Penalty Approach with Applications in Image Processing.</strong><br>
           F Lanzillotta, C Albisani, D Pucci, D Baracchi, A Piva, M Lapucci.<br>
           <em>arXiv pre-print</em> (2026). <a href="https://arxiv.org/abs/2601.16812">arXiv:2601.16812</a>
-          </li>
-          <li>
-          <strong> Effective Front-Descent Algorithms with Convergence Guarantees.</strong><br>
-          M. Lapucci, P. Mansueto, D. Pucci.<br>
-          <em>arXiv pre-print</em> (2024). <a href="https://arxiv.org/abs/2405.08450">arXiv:2405.08450</a>
           </li>
         </ol>
       </section>

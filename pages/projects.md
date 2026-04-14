@@ -89,6 +89,8 @@ More about the project sooner!
 The AIMS project (Artificial Intelligence for the Management of Shifts) was a research initiative funded by the Tuscany Region (POR CreO 2014-2020). The project focused on developing advanced optimisation tools for personnel shift scheduling based on real-world activity demands.
 <a href="/pages/projects/aims/">[Read more about AIMS project.]<br><br><br><br></a> 
 </div>
+
+<br><br>
  
 <div class="col-lg-6 col-md-12 col-sm-12">
   

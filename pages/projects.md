@@ -55,76 +55,61 @@ communities.
 <div class="row ">
 
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
-<div style="text-align: center">
-<figure>
-    <img src="/img/logos/airc.jpg"
-         alt="" style="text-align: center; width: 100%;">
-    <figcaption></figcaption>
-</figure>
-<div><strong style="color: #4A99E9;">AIRC 2021</strong><br>
-<div style="text-align:left;">
-More about the project sooner! 
-<!--<a href="https://www..../">[Read more.]<br><br><br><br></a>-->
-</div>
+    <div style="text-align: center">
 
-<br><br>
+        <div style="margin-bottom: 40px;">
+            <figure>
+                <img src="/img/logos/airc.jpg" alt="" style="text-align: center; width: 100%;">
+            </figure>
+            <strong style="color: #4A99E9;">AIRC 2021</strong><br>
+            <div style="text-align:left;">
+                More about the project sooner! 
+                </div>
+        </div>
 
-<div class="row d-flex align-items-center">
-  <div class="col-lg-6 col-md-6 col-sm-12 text-center">
-    <figure>
-      <img src="/img/logos/firlab.png" style="width: 100%;">
-      <figcaption></figcaption>
-    </figure>
-  </div>
+        <div style="margin-bottom: 40px;">
+            <div class="row d-flex align-items-center">
+                <div class="col-lg-6 col-md-6 col-sm-12 text-center">
+                    <figure>
+                        <img src="/img/logos/firlab.png" style="width: 100%;">
+                    </figure>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12 text-center">
+                    <figure>
+                        <img src="/img/logos/resolvo.png" style="width: 100%;">
+                    </figure>
+                </div>
+            </div>
+            <strong style="color: #4A99E9;">AIMS</strong><br>
+            <div style="text-align:left;">
+                The AIMS project (Artificial Intelligence for the Management of Shifts) was a research initiative funded by the Tuscany Region (POR CreO 2014-2020). The project focused on developing advanced optimisation tools for personnel shift scheduling based on real-world activity demands.
+                <br><a href="/pages/projects/aims/">[Read more about AIMS project.]</a> 
+            </div>
+        </div>
 
-  <div class="col-lg-6 col-md-6 col-sm-12 text-center">
-    <figure>
-      <img src="/img/logos/resolvo.png" style="width: 100%;">
-      <figcaption></figcaption>
-    </figure>
-  </div>
-</div>
-<div><strong style="color: #4A99E9;">AIMS</strong><br>
-<div style="text-align:left;">
-The AIMS project (Artificial Intelligence for the Management of Shifts) was a research initiative funded by the Tuscany Region (POR CreO 2014-2020). The project focused on developing advanced optimisation tools for personnel shift scheduling based on real-world activity demands.
-<a href="/pages/projects/aims/">[Read more about AIMS project.]<br><br><br><br></a> 
-</div>
+        <div style="margin-bottom: 40px;">
+            <figure>
+                <img src="/img/logos/seafactory.jpg" alt="" class="img-fluid" style="max-width: 200px;">
+            </figure>
+            <strong style="color: #4A99E9;">Optimal Sea Factory 2020</strong><br>
+            <div style="text-align:left;">
+                OptimalSeaFactory is an optimization system designed to improve efficiency in open-sea fish farming operations through intelligent harvest planning and automated sorting configuration. 
+                <br><a href="/pages/projects/seafactory/">[Read more about the Optimal Sea Factory 2020 project.]</a>
+            </div>
+        </div>
+        
+        <div style="margin-bottom: 40px;">
+            <figure>
+                <img src="/img/logos/siimobility.jpg" alt="" style="text-align: center; max-width: 100%;">
+            </figure>
+            <strong style="color: #4A99E9;">Sii Mobility</strong><br>
+            <div style="text-align:left;"> 
+                The Sii-Mobility project focuses on integrated transportation solutions for smart cities. Our contribution provides state-of-the-art algorithms for optimal path planning on multimodal, multi-objective transportation networks.
+                <br><a href="/pages/projects/sii_mobility/">[Read more about the Sii Mobility project.]</a> 
+            </div>
+        </div>
 
-<br><br>
- 
-<div class="col-lg-6 col-md-12 col-sm-12">
-  
-  <div class="text-center">
-    <figure>
-      <img src="/img/logos/seafactory.jpg"
-           alt=""
-           class="img-fluid"
-           style="max-width: 200px;">
-    </figure>
-  </div>
-
-  <strong style="color: #4A99E9;">Optimal Sea Factory 2020</strong>
-
-  <div>
-    OptimalSeaFactory is an optimization system designed to improve efficiency in open-sea fish farming operations through intelligent harvest planning and automated sorting configuration. 
-    <a href="/pages/projects/seafactory/">
-      [Read more about the Optimal Sea Factory 2020 project.]
-    </a>
-  </div>
-
-</div>
- 
-<div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
-<div style="text-align: center">
-<figure>
-    <img src="/img/logos/siimobility.jpg"
-         alt="" style="text-align: center; width: 200%;">
-    <figcaption></figcaption>
-</figure>
-<div><strong style="color: #4A99E9;">Sii Mobility</strong><br>
-<div style="text-align:left;"> 
-The Sii-Mobility project focuses on integrated transportation solutions for smart cities. Our contribution provides state-of-the-art algorithms for optimal path planning on multimodal, multi-objective transportation networks.
-<a href="/pages/projects/sii_mobility/">[Read more about the Sii Mobility project.]<br><br><br><br></a> 
+    </div>
 </div>
  
 

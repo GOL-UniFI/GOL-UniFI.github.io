@@ -69,23 +69,19 @@ More about the project sooner!
 
 <br><br>
 
-<div class="row">
-  <div class="col-lg-6 col-md-6 col-sm-12">
-    <div style="text-align: center">
-      <figure>
-        <img src="/img/logos/firlab.png"
-             alt="" style="width: 100%;">
-      </figure>
-    </div>
+<div class="row d-flex align-items-center">
+  <div class="col-lg-6 col-md-6 col-sm-12 text-center">
+    <figure>
+      <img src="/img/logos/firlab.png" style="width: 100%;">
+      <figcaption></figcaption>
+    </figure>
   </div>
 
-  <div class="col-lg-6 col-md-6 col-sm-12">
-    <div style="text-align: center">
-      <figure>
-        <img src="/img/logos/resolvo.png"
-             alt="" style="width: 100%;">
-      </figure>
-    </div>
+  <div class="col-lg-6 col-md-6 col-sm-12 text-center">
+    <figure>
+      <img src="/img/logos/resolvo.png" style="width: 100%;">
+      <figcaption></figcaption>
+    </figure>
   </div>
 </div>
 <div><strong style="color: #4A99E9;">AIMS</strong><br>
@@ -97,7 +93,7 @@ The AIMS project (Artificial Intelligence for the Management of Shifts) was a re
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
 <div style="text-align: center">
 <figure>
-    <img src="/img/logos/seafactory.png"
+    <img src="/img/logos/seafactory.jpg"
          alt="" style="text-align: center; width: 100%;">
     <figcaption></figcaption>
 </figure>
@@ -110,7 +106,7 @@ OptimalSeaFactory is an optimization system designed to improve efficiency in op
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
 <div style="text-align: center">
 <figure>
-    <img src="/img/logos/siimobility.png"
+    <img src="/img/logos/siimobility.jpg"
          alt="" style="text-align: center; width: 100%;">
     <figcaption></figcaption>
 </figure>

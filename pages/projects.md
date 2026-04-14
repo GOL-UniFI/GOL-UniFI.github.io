@@ -94,7 +94,7 @@ The AIMS project (Artificial Intelligence for the Management of Shifts) was a re
 <div style="text-align: center">
 <figure>
     <img src="/img/logos/seafactory.jpg"
-         alt="" style="text-align: center; width: 100%;">
+         alt="" style="text-align: center; width: 150%;">
     <figcaption></figcaption>
 </figure>
 <div><strong style="color: #4A99E9;">Optimal Sea Factory 2020</strong><br>
@@ -107,7 +107,7 @@ OptimalSeaFactory is an optimization system designed to improve efficiency in op
 <div style="text-align: center">
 <figure>
     <img src="/img/logos/siimobility.jpg"
-         alt="" style="text-align: center; width: 100%;">
+         alt="" style="text-align: center; width: 200%;">
     <figcaption></figcaption>
 </figure>
 <div><strong style="color: #4A99E9;">Sii Mobility</strong><br>

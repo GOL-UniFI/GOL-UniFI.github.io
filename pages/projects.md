@@ -67,6 +67,7 @@ More about the project sooner!
 <!--<a href="https://www..../">[Read more.]<br><br><br><br></a>-->
 </div>
 
+<br><br>
 
 <div class="row">
   <div class="col-lg-6 col-md-6 col-sm-12">

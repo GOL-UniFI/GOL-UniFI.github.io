@@ -90,17 +90,26 @@ The AIMS project (Artificial Intelligence for the Management of Shifts) was a re
 <a href="/pages/projects/aims/">[Read more about AIMS project.]<br><br><br><br></a> 
 </div>
  
-<div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
-<div style="text-align: center">
-<figure>
-    <img src="/img/logos/seafactory.jpg"
-         alt="" style="text-align: center; width: 150%;">
-    <figcaption></figcaption>
-</figure>
-<div><strong style="color: #4A99E9;">Optimal Sea Factory 2020</strong><br>
-<div style="text-align:left;">
-OptimalSeaFactory is an optimization system designed to improve efficiency in open-sea fish farming operations through intelligent harvest planning and automated sorting configuration. 
-<a href="/pages/projects/seafactory/">[Read more about the Optimal Sea Factory 2020 project.]<br><br><br><br></a> 
+<div class="col-lg-6 col-md-12 col-sm-12">
+  
+  <div class="text-center">
+    <figure>
+      <img src="/img/logos/seafactory.jpg"
+           alt=""
+           class="img-fluid"
+           style="max-width: 200px;">
+    </figure>
+  </div>
+
+  <strong style="color: #4A99E9;">Optimal Sea Factory 2020</strong>
+
+  <div>
+    OptimalSeaFactory is an optimization system designed to improve efficiency in open-sea fish farming operations through intelligent harvest planning and automated sorting configuration. 
+    <a href="/pages/projects/seafactory/">
+      [Read more about the Optimal Sea Factory 2020 project.]
+    </a>
+  </div>
+
 </div>
  
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">

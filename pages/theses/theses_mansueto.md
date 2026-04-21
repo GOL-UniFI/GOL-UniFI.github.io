@@ -53,7 +53,7 @@ permalink: /pages/theses/mansueto_proposals/
   </div>
 
   <div class="col">
-    <div class="card h-100 border-success">
+    <div class="card h-100">
       <div class="card-body">
         <div class="d-flex align-items-center mb-2">
           <span class="badge badge-success mr-2">Energia</span>

@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Tesi Mansueto
-permalink: /pages/theses/theses_mansueto/
+title: Proposte di Tesi
+subtitle: Supervisor — Prof. Mansueto
+permalink: /pages/theses/mansueto_proposals/
 ---
-
-## Logistica & mobilità urbana
 
 <div class="row row-cols-1 row-cols-md-2 g-4 mb-4">
 
@@ -33,10 +32,10 @@ permalink: /pages/theses/theses_mansueto/
       </div>
     </div>
   </div>
-  
+
 </div>
 
-<div class="row row-cols-1 row-cols-md-1 g-4 mb-4">
+<div class="row row-cols-1 row-cols-md-2 g-4 mb-4">
 
   <div class="col">
     <div class="card h-100">
@@ -51,20 +50,11 @@ permalink: /pages/theses/theses_mansueto/
     </div>
   </div>
 
-</div>
-
----
-
-## Energia & smart grid
-
-<div class="row row-cols-1 row-cols-md-2 g-4 mb-4">
-
   <div class="col">
     <div class="card h-100 border-success">
       <div class="card-body">
         <div class="d-flex align-items-center mb-2">
           <span class="badge badge-success mr-2">Energia</span>
-          <small class="text-success font-weight-bold">⭐ più originale</small>
         </div>
         <h5 class="card-title">Ottimizzazione di una Comunità Energetica Rinnovabile (CER)</h5>
         <p class="card-text">Le CER sono state introdotte in Italia con il D.Lgs. 199/2021 e rese operative dalle regole GSE del 2024. La tesi formula un modello MIP per decidere ora per ora quando caricare e scaricare il sistema di accumulo e quanto energia scambiare con la rete, minimizzando il costo netto. Il modello viene calibrato su dati reali italiani e analizzato al variare della capacità del sistema di accumulo.</p>
@@ -74,6 +64,10 @@ permalink: /pages/theses/theses_mansueto/
       </div>
     </div>
   </div>
+
+</div>
+
+<div class="row row-cols-1 row-cols-md-2 g-4 mb-4">
 
   <div class="col">
     <div class="card h-100">
@@ -88,14 +82,6 @@ permalink: /pages/theses/theses_mansueto/
     </div>
   </div>
 
-</div>
-
----
-
-## Contesti di sviluppo & crisi umanitarie
-
-<div class="row row-cols-1 row-cols-md-2 g-4 mb-4">
-
   <div class="col">
     <div class="card h-100">
       <div class="card-body">
@@ -108,6 +94,10 @@ permalink: /pages/theses/theses_mansueto/
       </div>
     </div>
   </div>
+
+</div>
+
+<div class="row row-cols-1 row-cols-md-2 g-4 mb-4">
 
   <div class="col">
     <div class="card h-100">
@@ -122,14 +112,6 @@ permalink: /pages/theses/theses_mansueto/
     </div>
   </div>
 
-</div>
-
----
-
-## Welfare & solidarietà locale
-
-<div class="row row-cols-1 row-cols-md-3 g-4 mb-4">
-
   <div class="col">
     <div class="card h-100">
       <div class="card-body">
@@ -142,6 +124,10 @@ permalink: /pages/theses/theses_mansueto/
       </div>
     </div>
   </div>
+
+</div>
+
+<div class="row row-cols-1 row-cols-md-2 g-4 mb-4">
 
   <div class="col">
     <div class="card h-100">

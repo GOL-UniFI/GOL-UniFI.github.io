@@ -5,6 +5,8 @@ subtitle: Supervisor — Prof. Mansueto
 permalink: /pages/theses/mansueto_proposals/
 ---
 
+<p>N.B.: Le proposte di tesi sono soggette ad aggiornamenti frequenti. È inoltre sempre ben accolta e incoraggiata la presentazione di proposte di tesi personali. Per ulteriori informazioni e dettagli, si consiglia di fissare un appuntamento con il docente tramite e-mail.</p>
+
 <div class="row row-cols-1 row-cols-md-2 g-4 mb-4">
 
   <div class="col">
@@ -42,7 +44,7 @@ permalink: /pages/theses/mansueto_proposals/
       <div class="card-body">
         <span class="badge badge-secondary mb-2">Smart City</span>
         <h5 class="card-title">Bike Sharing Rebalancing</h5>
-        <p class="card-text">I sistemi di bike sharing soffrono di uno squilibrio strutturale tra stazioni vuote e stazioni piene. La tesi studia il problema statico di rebalancing, lo formula come problema di minimo costo su grafo, e lo applica ai dati open-source real-time di BikeMi Milano, analizzando la soluzione al variare del numero di veicoli e della capacità di trasporto.</p>
+        <p class="card-text">I sistemi di bike sharing soffrono di uno squilibrio strutturale tra stazioni vuote e stazioni piene. La tesi studia il problema statico di rebalancing, lo formula come problema di minimo costo su grafo, e lo applica ai dati open-source real-time (e.g., BikeMi Milano), analizzando la soluzione al variare del numero di veicoli e della capacità di trasporto.</p>
       </div>
       <div class="card-footer">
         <small class="text-muted">Flussi su grafo &middot; BikeMi open data &middot; Python / PuLP</small>
@@ -57,7 +59,7 @@ permalink: /pages/theses/mansueto_proposals/
           <span class="badge badge-success mr-2">Energia</span>
         </div>
         <h5 class="card-title">Ottimizzazione di una Comunità Energetica Rinnovabile (CER)</h5>
-        <p class="card-text">Le CER sono state introdotte in Italia con il D.Lgs. 199/2021 e rese operative dalle regole GSE del 2024. La tesi formula un modello MIP per decidere ora per ora quando caricare e scaricare il sistema di accumulo e quanto energia scambiare con la rete, minimizzando il costo netto. Il modello viene calibrato su dati reali italiani e analizzato al variare della capacità del sistema di accumulo.</p>
+        <p class="card-text">Le CER sono state introdotte in Italia con il D.Lgs. 199/2021 e rese operative dalle regole GSE del 2024. La tesi formula un modello MIP per decidere ora per ora quando caricare e scaricare il sistema di accumulo e quanto energia scambiare con la rete, minimizzando il costo netto. Il modello viene calibrato su dati reali e analizzato al variare della capacità del sistema di accumulo.</p>
       </div>
       <div class="card-footer">
         <small class="text-muted">MIP + sensitività &middot; PVGIS / GSE / GME &middot; Python / PuLP</small>
@@ -134,7 +136,7 @@ permalink: /pages/theses/mansueto_proposals/
       <div class="card-body">
         <span class="badge badge-success mb-2">Welfare territoriale</span>
         <h5 class="card-title">Assegnazione di utenti a punti di distribuzione assistenziale</h5>
-        <p class="card-text">Le organizzazioni di welfare devono suddividere il bacino di utenza tra più punti di distribuzione minimizzando le distanze percorse da persone spesso prive di mezzi propri. La tesi applica il p-median capacitato a dati reali ISTAT di un comune italiano, studiando come cambia l'assegnazione ottimale al variare del numero di punti attivi.</p>
+        <p class="card-text">Le organizzazioni di welfare devono suddividere il bacino di utenza tra più punti di distribuzione minimizzando le distanze percorse da persone spesso prive di mezzi propri. La tesi applica il p-median capacitato a dati reali, studiando come cambia l'assegnazione ottimale al variare del numero di punti attivi.</p>
       </div>
       <div class="card-footer">
         <small class="text-muted">P-median capacitato &middot; Dati ISTAT / OSM &middot; Python / PuLP</small>

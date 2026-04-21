@@ -6,7 +6,7 @@ permalink: /pages/theses/theses_mansueto/
 
 ## Logistica & mobilità urbana
 
-<div class="row row-cols-1 row-cols-md-3 g-4 mb-4">
+<div class="row row-cols-1 row-cols-md-2 g-4 mb-4">
 
   <div class="col">
     <div class="card h-100">
@@ -33,6 +33,10 @@ permalink: /pages/theses/theses_mansueto/
       </div>
     </div>
   </div>
+  
+</div>
+
+<div class="row row-cols-1 row-cols-md-1 g-4 mb-4">
 
   <div class="col">
     <div class="card h-100">

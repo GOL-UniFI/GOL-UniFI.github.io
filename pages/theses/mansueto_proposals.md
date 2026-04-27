@@ -13,6 +13,7 @@ permalink: /pages/theses/mansueto_proposals/
     <div class="card h-100">
       <div class="card-body">
         <span class="badge badge-success mb-2">Green Logistics</span>
+        <span class="badge badge-warning mb-2">In corso</span>
         <h5 class="card-title">Carbon-aware Vehicle Routing</h5>
         <p class="card-text">Il trasporto merci urbano è responsabile di una quota rilevante delle emissioni di CO₂, e la crescente attenzione agli obiettivi ESG ha spinto aziende e municipalità a ripensare la logistica. La tesi affronta il Green VRP: dopo una rassegna della letteratura, lo studente formulerà un modello MIP che minimizza il costo dei percorsi soggetto a un vincolo di budget sulle emissioni, applicandolo a una piccola istanza con analisi di sensitività sul budget ambientale.</p>
       </div>
@@ -26,6 +27,7 @@ permalink: /pages/theses/mansueto_proposals/
     <div class="card h-100">
       <div class="card-body">
         <span class="badge badge-primary mb-2">Mobilità elettrica</span>
+        <span class="badge badge-warning mb-2">In corso</span>
         <h5 class="card-title">Electric Vehicle Routing Problem</h5>
         <p class="card-text">La diffusione di flotte elettriche introduce nel routing un vincolo nuovo: l'autonomia limitata della batteria e la necessità di pianificare soste di ricarica. La tesi esamina la letteratura sull'E-VRP, formula il modello MIP con variabili di stato della batteria e stazioni come nodi aggiuntivi del grafo, e lo applica a istanze standard con analisi di sensitività sull'autonomia e sul numero di stazioni.</p>
       </div>

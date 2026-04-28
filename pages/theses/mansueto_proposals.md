@@ -90,6 +90,7 @@ permalink: /pages/theses/mansueto_proposals/
     <div class="card h-100">
       <div class="card-body">
         <span class="badge badge-danger mb-2">Humanitarian Logistics</span>
+        <span class="badge badge-warning mb-2">In corso</span>
         <h5 class="card-title">Distribuzione di aiuti in contesti post-disastro</h5>
         <p class="card-text">Terremoti, alluvioni e conflitti generano picchi improvvisi di domanda di beni essenziali in aree con infrastrutture danneggiate. La tesi esamina la letteratura sulla logistica umanitaria, formula un modello MIP che minimizza il costo di distribuzione soggetto a vincoli di copertura minima della domanda, e lo applica a un caso ispirato a un'emergenza recente usando dati OCHA/WFP.</p>
       </div>

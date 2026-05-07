@@ -12,19 +12,6 @@ permalink: /pages/theses/mansueto_proposals/
   <div class="col">
     <div class="card h-100">
       <div class="card-body">
-        <span class="badge badge-secondary mb-2">Smart City</span>
-        <h5 class="card-title">Bike Sharing Rebalancing</h5>
-        <p class="card-text">I sistemi di bike sharing soffrono di uno squilibrio strutturale tra stazioni vuote e stazioni piene. La tesi studia il problema statico di rebalancing, lo formula come problema di minimo costo su grafo, e lo applica ai dati open-source real-time (e.g., BikeMi Milano), analizzando la soluzione al variare del numero di veicoli e della capacità di trasporto.</p>
-      </div>
-      <div class="card-footer">
-        <small class="text-muted">Flussi su grafo &middot; BikeMi open data &middot; Python / PuLP</small>
-      </div>
-    </div>
-  </div>
-
-  <div class="col">
-    <div class="card h-100">
-      <div class="card-body">
         <div class="d-flex align-items-center mb-2">
           <span class="badge badge-success mr-2">Energia</span>
         </div>
@@ -33,6 +20,19 @@ permalink: /pages/theses/mansueto_proposals/
       </div>
       <div class="card-footer">
         <small class="text-muted">MIP + sensitività &middot; PVGIS / GSE / GME &middot; Python / PuLP</small>
+      </div>
+    </div>
+  </div>
+
+  <div class="col">
+    <div class="card h-100">
+      <div class="card-body">
+        <span class="badge badge-secondary mb-2">Smart City</span>
+        <h5 class="card-title">Bike Sharing Rebalancing</h5>
+        <p class="card-text">I sistemi di bike sharing soffrono di uno squilibrio strutturale tra stazioni vuote e stazioni piene. La tesi studia il problema statico di rebalancing, lo formula come problema di minimo costo su grafo, e lo applica ai dati open-source real-time (e.g., BikeMi Milano), analizzando la soluzione al variare del numero di veicoli e della capacità di trasporto.</p>
+      </div>
+      <div class="card-footer">
+        <small class="text-muted">Flussi su grafo &middot; BikeMi open data &middot; Python / PuLP</small>
       </div>
     </div>
   </div>
@@ -99,7 +99,7 @@ permalink: /pages/theses/mansueto_proposals/
 
 </div>
 
-<div class="row row-cols-1 row-cols-md-2 g-4 mb-4">
+<div class="row row-cols-1 row-cols-md-1 g-4 mb-4">
 
   <div class="col">
     <div class="card h-100">

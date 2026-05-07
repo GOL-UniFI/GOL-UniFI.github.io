@@ -12,38 +12,6 @@ permalink: /pages/theses/mansueto_proposals/
   <div class="col">
     <div class="card h-100">
       <div class="card-body">
-        <span class="badge badge-success mb-2">Green Logistics</span>
-        <span class="badge badge-warning mb-2">In corso</span>
-        <h5 class="card-title">Carbon-aware Vehicle Routing</h5>
-        <p class="card-text">Il trasporto merci urbano è responsabile di una quota rilevante delle emissioni di CO₂, e la crescente attenzione agli obiettivi ESG ha spinto aziende e municipalità a ripensare la logistica. La tesi affronta il Green VRP: dopo una rassegna della letteratura, lo studente formulerà un modello MIP che minimizza il costo dei percorsi soggetto a un vincolo di budget sulle emissioni, applicandolo a una piccola istanza con analisi di sensitività sul budget ambientale.</p>
-      </div>
-      <div class="card-footer">
-        <small class="text-muted">MIP + grafi &middot; CVRPLib &middot; Python / OR-Tools</small>
-      </div>
-    </div>
-  </div>
-
-  <div class="col">
-    <div class="card h-100">
-      <div class="card-body">
-        <span class="badge badge-primary mb-2">Mobilità elettrica</span>
-        <span class="badge badge-warning mb-2">In corso</span>
-        <h5 class="card-title">Electric Vehicle Routing Problem</h5>
-        <p class="card-text">La diffusione di flotte elettriche introduce nel routing un vincolo nuovo: l'autonomia limitata della batteria e la necessità di pianificare soste di ricarica. La tesi esamina la letteratura sull'E-VRP, formula il modello MIP con variabili di stato della batteria e stazioni come nodi aggiuntivi del grafo, e lo applica a istanze standard con analisi di sensitività sull'autonomia e sul numero di stazioni.</p>
-      </div>
-      <div class="card-footer">
-        <small class="text-muted">MIP + grafi &middot; Schneider instances &middot; Python / PuLP</small>
-      </div>
-    </div>
-  </div>
-
-</div>
-
-<div class="row row-cols-1 row-cols-md-2 g-4 mb-4">
-
-  <div class="col">
-    <div class="card h-100">
-      <div class="card-body">
         <span class="badge badge-secondary mb-2">Smart City</span>
         <h5 class="card-title">Bike Sharing Rebalancing</h5>
         <p class="card-text">I sistemi di bike sharing soffrono di uno squilibrio strutturale tra stazioni vuote e stazioni piene. La tesi studia il problema statico di rebalancing, lo formula come problema di minimo costo su grafo, e lo applica ai dati open-source real-time (e.g., BikeMi Milano), analizzando la soluzione al variare del numero di veicoli e della capacità di trasporto.</p>
@@ -82,20 +50,6 @@ permalink: /pages/theses/mansueto_proposals/
       </div>
       <div class="card-footer">
         <small class="text-muted">MIP + scheduling &middot; Prezzi GME &middot; Python / PuLP</small>
-      </div>
-    </div>
-  </div>
-
-  <div class="col">
-    <div class="card h-100">
-      <div class="card-body">
-        <span class="badge badge-danger mb-2">Humanitarian Logistics</span>
-        <span class="badge badge-warning mb-2">In corso</span>
-        <h5 class="card-title">Distribuzione di aiuti in contesti post-disastro</h5>
-        <p class="card-text">Terremoti, alluvioni e conflitti generano picchi improvvisi di domanda di beni essenziali in aree con infrastrutture danneggiate. La tesi esamina la letteratura sulla logistica umanitaria, formula un modello MIP che minimizza il costo di distribuzione soggetto a vincoli di copertura minima della domanda, e lo applica a un caso ispirato a un'emergenza recente usando dati OCHA/WFP.</p>
-      </div>
-      <div class="card-footer">
-        <small class="text-muted">MIP + grafi &middot; Dati OCHA / WFP &middot; Python / PuLP</small>
       </div>
     </div>
   </div>
@@ -156,6 +110,56 @@ permalink: /pages/theses/mansueto_proposals/
       </div>
       <div class="card-footer">
         <small class="text-muted">MIP + scheduling &middot; Istanza sintetica &middot; Python / PuLP</small>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<div class="row row-cols-1 row-cols-md-2 g-4 mb-4">
+
+  <div class="col">
+    <div class="card h-100">
+      <div class="card-body">
+        <span class="badge badge-success mb-2">Green Logistics</span>
+        <span class="badge badge-warning mb-2">In corso</span>
+        <h5 class="card-title">Carbon-aware Vehicle Routing</h5>
+        <p class="card-text">Il trasporto merci urbano è responsabile di una quota rilevante delle emissioni di CO₂, e la crescente attenzione agli obiettivi ESG ha spinto aziende e municipalità a ripensare la logistica. La tesi affronta il Green VRP: dopo una rassegna della letteratura, lo studente formulerà un modello MIP che minimizza il costo dei percorsi soggetto a un vincolo di budget sulle emissioni, applicandolo a una piccola istanza con analisi di sensitività sul budget ambientale.</p>
+      </div>
+      <div class="card-footer">
+        <small class="text-muted">MIP + grafi &middot; CVRPLib &middot; Python / OR-Tools</small>
+      </div>
+    </div>
+  </div>
+
+  <div class="col">
+    <div class="card h-100">
+      <div class="card-body">
+        <span class="badge badge-primary mb-2">Mobilità elettrica</span>
+        <span class="badge badge-warning mb-2">In corso</span>
+        <h5 class="card-title">Electric Vehicle Routing Problem</h5>
+        <p class="card-text">La diffusione di flotte elettriche introduce nel routing un vincolo nuovo: l'autonomia limitata della batteria e la necessità di pianificare soste di ricarica. La tesi esamina la letteratura sull'E-VRP, formula il modello MIP con variabili di stato della batteria e stazioni come nodi aggiuntivi del grafo, e lo applica a istanze standard con analisi di sensitività sull'autonomia e sul numero di stazioni.</p>
+      </div>
+      <div class="card-footer">
+        <small class="text-muted">MIP + grafi &middot; Schneider instances &middot; Python / PuLP</small>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<div class="row row-cols-1 row-cols-md-1 g-4 mb-4">
+
+<div class="col">
+    <div class="card h-100">
+      <div class="card-body">
+        <span class="badge badge-danger mb-2">Humanitarian Logistics</span>
+        <span class="badge badge-warning mb-2">In corso</span>
+        <h5 class="card-title">Distribuzione di aiuti in contesti post-disastro</h5>
+        <p class="card-text">Terremoti, alluvioni e conflitti generano picchi improvvisi di domanda di beni essenziali in aree con infrastrutture danneggiate. La tesi esamina la letteratura sulla logistica umanitaria, formula un modello MIP che minimizza il costo di distribuzione soggetto a vincoli di copertura minima della domanda, e lo applica a un caso ispirato a un'emergenza recente usando dati OCHA/WFP.</p>
+      </div>
+      <div class="card-footer">
+        <small class="text-muted">MIP + grafi &middot; Dati OCHA / WFP &middot; Python / PuLP</small>
       </div>
     </div>
   </div>

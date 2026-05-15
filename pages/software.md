@@ -7,6 +7,16 @@ title: Our software
 
 In the following you can find the main software (open-source) projects implemented and maintained by us. 
 
+# Official LaTeX Beamer Template of GOL
+The GOL Theme is a modern LaTeX Beamer theme with our branding. 
+
+<a href="/files/docs/GOL_Beamer_Template.zip" download>
+  Download Theme
+</a>
+
+Some of its elements are inspired by the [UVT Beamer Theme](https://github.com/alexfikl/uvt-beamer). 
+
+
 # MOMIX
 <div style="text-align: center;">
 <!-- <figure>
@@ -23,10 +33,11 @@ Publication: [PDF](https://epubs.siam.org/doi/epdf/10.1137/19M1264709)
 
 
 # Front Descent Framework for Multi-Objective Optimization
-<div style="text-align: center;">
-</div>
 The Front Descent Framework integrates the core algorithms for Pareto front reconstruction in nonlinear, smooth, unconstrained multi-objective optimization problems
 
 GitHub: [github.com/pierlumanzu/fd_framework](https://github.com/pierlumanzu/fd_framework)<br>
 Publication: [PDF](https://arxiv.org/abs/2405.08450)
+
+
+
  

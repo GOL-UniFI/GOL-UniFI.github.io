@@ -31,7 +31,7 @@ def save_bibtex(bib_data, filename):
         bibfile.write(bib_data.to_string('bibtex'))
 
 if __name__ == "__main__":
-    author_ids = ["94/10257", "86/4956", "00/4209", "254/2545", "256/8670", "338/6626", "324/5142", "283/0920", "34/1490"]
+    author_ids = ["86/4956","94/10257", "254/2545", "324/5142", "283/0920", "256/8670", "435/2354", "338/6626", "34/1490", "00/4209"]
     bibtex_entries = download_bibtex(author_ids)
     merged_bib = merge_bibtex(bibtex_entries)
     save_bibtex(merged_bib, "GOL.bib")

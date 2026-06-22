@@ -46,7 +46,6 @@ title: Pierluigi Mansueto
         <em> Journal of Optimization Theory and Applications</em> (2026). DOI: <a href="https://doi.org/10.1007/s10957-026-03035-w">10.1007/s10957-026-03035-w</a>
         </li>
         <li>
-        <li>
         <strong>Projection-based curve pattern search for black-box optimization over smooth convex sets.</strong><br>
         X. Jia, M. Lapucci, P. Mansueto.<br>
         <em>Optimization Methods and Software</em> (2026). DOI: <a href="https://doi.org/10.1080/10556788.2026.2647280">10.1080/10556788.2026.2647280</a>

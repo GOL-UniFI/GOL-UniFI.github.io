@@ -41,6 +41,12 @@ title: Pierluigi Mansueto
     <h2>Publications</h2>
     <ol>
         <li>
+        <strong>Efficient Globalization of Heavy-Ball Type Methods for Unconstrained Optimization Based on Curve Searches.</strong><br>
+        F. Donnini, M. Lapucci, P. Mansueto.<br>
+        <em> Journal of Optimization Theory and Applications</em> (2026). DOI: <a href="https://doi.org/10.1007/s10957-026-03035-w">10.1007/s10957-026-03035-w</a>
+        </li>
+        <li>
+        <li>
         <strong>Projection-based curve pattern search for black-box optimization over smooth convex sets.</strong><br>
         X. Jia, M. Lapucci, P. Mansueto.<br>
         <em>Optimization Methods and Software</em> (2026). DOI: <a href="https://doi.org/10.1080/10556788.2026.2647280">10.1080/10556788.2026.2647280</a>
@@ -127,11 +133,6 @@ title: Pierluigi Mansueto
         P. Mansueto.<br>
         <em>ArXiv pre-print</em> (2025). DOI: <a href="https://doi.org/10.48550/arXiv.2509.02409">10.48550/arXiv.2509.02409</a>
         </li>
-        <li>
-        <strong>Efficient globalization of heavy-ball type methods for unconstrained optimization based on curve searches.</strong><br>
-        F. Donnini, M. Lapucci, P. Mansueto.<br>
-        <em>ArXiv pre-print</em> (2025). DOI: <a href="https://doi.org/10.48550/arXiv.2505.19705">10.48550/arXiv.2505.19705</a>
-        </li>
     </ol>
     </section>
 
@@ -139,6 +140,8 @@ title: Pierluigi Mansueto
       <section class="talks">
         <h2>Talks</h2>
         <ul>
+
+        <li><a href="https://www.siam.org/conferences-events/siam-conferences/op26/">SIAM OP26, Edinburgh</a> — Projection-Based Curve Pattern Search for Black-Box Optimization over Smooth Convex Sets</li>
 
         <li><a href="https://europt2025.org/">EUROPT 2025, Southampton</a> — Combining Gradient Information and Primitive Directions for High-Performance Mixed-Integer Optimization</li>
 

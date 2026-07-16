@@ -136,7 +136,7 @@ permalink: /pages/theses/mansueto_proposals/
     <div class="card h-100">
       <div class="card-body">
         <div class="d-flex align-items-center mb-2">
-          <span class="badge badge-success mr-2">Energia</span>
+          <span class="badge badge-success mb-2">Energia</span>
           <span class="badge badge-warning mb-2">In corso</span>
         </div>
         <h5 class="card-title">Ottimizzazione di una Comunità Energetica Rinnovabile (CER)</h5>

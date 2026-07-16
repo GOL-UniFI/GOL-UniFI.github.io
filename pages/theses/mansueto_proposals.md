@@ -12,44 +12,12 @@ permalink: /pages/theses/mansueto_proposals/
   <div class="col">
     <div class="card h-100">
       <div class="card-body">
-        <div class="d-flex align-items-center mb-2">
-          <span class="badge badge-success mr-2">Energia</span>
-        </div>
-        <h5 class="card-title">Ottimizzazione di una Comunità Energetica Rinnovabile (CER)</h5>
-        <p class="card-text">Le CER sono state introdotte in Italia con il D.Lgs. 199/2021 e rese operative dalle regole GSE del 2024. La tesi formula un modello MIP per decidere ora per ora quando caricare e scaricare il sistema di accumulo e quanto energia scambiare con la rete, minimizzando il costo netto. Il modello viene calibrato su dati reali e analizzato al variare della capacità del sistema di accumulo.</p>
-      </div>
-      <div class="card-footer">
-        <small class="text-muted">MIP + sensitività &middot; PVGIS / GSE / GME &middot; Python / PuLP</small>
-      </div>
-    </div>
-  </div>
-
-  <div class="col">
-    <div class="card h-100">
-      <div class="card-body">
         <span class="badge badge-secondary mb-2">Smart City</span>
         <h5 class="card-title">Bike Sharing Rebalancing</h5>
         <p class="card-text">I sistemi di bike sharing soffrono di uno squilibrio strutturale tra stazioni vuote e stazioni piene. La tesi studia il problema statico di rebalancing, lo formula come problema di minimo costo su grafo, e lo applica ai dati open-source real-time (e.g., BikeMi Milano), analizzando la soluzione al variare del numero di veicoli e della capacità di trasporto.</p>
       </div>
       <div class="card-footer">
         <small class="text-muted">Flussi su grafo &middot; BikeMi open data &middot; Python / PuLP</small>
-      </div>
-    </div>
-  </div>
-
-</div>
-
-<div class="row row-cols-1 row-cols-md-2 g-4 mb-4">
-
-  <div class="col">
-    <div class="card h-100">
-      <div class="card-body">
-        <span class="badge badge-warning mb-2">Smart Grid</span>
-        <h5 class="card-title">EV Charging Scheduling</h5>
-        <p class="card-text">La ricarica non coordinata di veicoli elettrici rischia di generare picchi di domanda che stressano le reti di distribuzione. La tesi formula un modello MIP che decide quando e quanto ricaricare ciascun veicolo rispettando i vincoli di capacità delle colonnine e della rete, applicandolo a un piccolo caso numerico con analisi di sensitività sul numero di colonnine e sul profilo tariffario.</p>
-      </div>
-      <div class="card-footer">
-        <small class="text-muted">MIP + scheduling &middot; Prezzi GME &middot; Python / PuLP</small>
       </div>
     </div>
   </div>
@@ -148,7 +116,7 @@ permalink: /pages/theses/mansueto_proposals/
 
 </div>
 
-<div class="row row-cols-1 row-cols-md-1 g-4 mb-4">
+<div class="row row-cols-1 row-cols-md-2 g-4 mb-4">
 
 <div class="col">
     <div class="card h-100">
@@ -163,5 +131,41 @@ permalink: /pages/theses/mansueto_proposals/
       </div>
     </div>
   </div>
+
+  <div class="col">
+    <div class="card h-100">
+      <div class="card-body">
+        <div class="d-flex align-items-center mb-2">
+          <span class="badge badge-success mr-2">Energia</span>
+          <span class="badge badge-warning mb-2">In corso</span>
+        </div>
+        <h5 class="card-title">Ottimizzazione di una Comunità Energetica Rinnovabile (CER)</h5>
+        <p class="card-text">Le CER sono state introdotte in Italia con il D.Lgs. 199/2021 e rese operative dalle regole GSE del 2024. La tesi formula un modello MIP per decidere ora per ora quando caricare e scaricare il sistema di accumulo e quanto energia scambiare con la rete, minimizzando il costo netto. Il modello viene calibrato su dati reali e analizzato al variare della capacità del sistema di accumulo.</p>
+      </div>
+      <div class="card-footer">
+        <small class="text-muted">MIP + sensitività &middot; PVGIS / GSE / GME &middot; Python / PuLP</small>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<div class="row row-cols-1 row-cols-md-1 g-4 mb-4">
+
+<div class="col">
+  <div class="card h-100">
+    <div class="card-body">
+      <div class="d-flex align-items-center mb-2">
+          <span class="badge badge-warning mb-2">Smart Grid</span>
+          <span class="badge badge-warning mb-2">In corso</span>
+      </div>
+      <h5 class="card-title">EV Charging Scheduling</h5>
+      <p class="card-text">La ricarica non coordinata di veicoli elettrici rischia di generare picchi di domanda che stressano le reti di distribuzione. La tesi formula un modello MIP che decide quando e quanto ricaricare ciascun veicolo rispettando i vincoli di capacità delle colonnine e della rete, applicandolo a un piccolo caso numerico con analisi di sensitività sul numero di colonnine e sul profilo tariffario.</p>
+    </div>
+    <div class="card-footer">
+      <small class="text-muted">MIP + scheduling &middot; Prezzi GME &middot; Python / PuLP</small>
+    </div>
+  </div>
+</div>
 
 </div>

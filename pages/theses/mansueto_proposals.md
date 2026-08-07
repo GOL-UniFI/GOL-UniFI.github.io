@@ -39,19 +39,6 @@ permalink: /pages/theses/mansueto_proposals/
 
 <div class="row row-cols-1 row-cols-md-2 g-4 mb-4">
 
-  <div class="col">
-    <div class="card h-100">
-      <div class="card-body">
-        <span class="badge badge-success mb-2">Logistica solidale</span>
-        <h5 class="card-title">Raccolta e distribuzione di eccedenze alimentari</h5>
-        <p class="card-text">Supermercati e mense producono ogni giorno eccedenze che potrebbero raggiungere famiglie in difficoltà, ma la logistica del recupero è complessa per via delle finestre temporali strette. La tesi formula il problema come VRP con finestre temporali, minimizzando la distanza percorsa da un veicolo che visita punti di raccolta e consegna i beni a strutture riceventi.</p>
-      </div>
-      <div class="card-footer">
-        <small class="text-muted">VRP + finestre temp. &middot; OSM / open data &middot; Python / OR-Tools</small>
-      </div>
-    </div>
-  </div>
-
    <div class="col">
     <div class="card h-100">
       <div class="card-body">
@@ -64,10 +51,6 @@ permalink: /pages/theses/mansueto_proposals/
       </div>
     </div>
   </div>
-
-</div>
-
-<div class="row row-cols-1 row-cols-md-1 g-4 mb-4">
 
   <div class="col">
     <div class="card h-100">
@@ -150,7 +133,7 @@ permalink: /pages/theses/mansueto_proposals/
 
 </div>
 
-<div class="row row-cols-1 row-cols-md-1 g-4 mb-4">
+<div class="row row-cols-1 row-cols-md-2 g-4 mb-4">
 
 <div class="col">
   <div class="card h-100">
@@ -167,5 +150,21 @@ permalink: /pages/theses/mansueto_proposals/
     </div>
   </div>
 </div>
+
+<div class="col">
+    <div class="card h-100">
+      <div class="card-body">
+        <div class="d-flex align-items-center mb-2">
+          <span class="badge badge-warning mb-2">Logistica solidale</span>
+          <span class="badge badge-warning mb-2">In corso</span>
+        </div>
+        <h5 class="card-title">Raccolta e distribuzione di eccedenze alimentari</h5>
+        <p class="card-text">Supermercati e mense producono ogni giorno eccedenze che potrebbero raggiungere famiglie in difficoltà, ma la logistica del recupero è complessa per via delle finestre temporali strette. La tesi formula il problema come VRP con finestre temporali, minimizzando la distanza percorsa da un veicolo che visita punti di raccolta e consegna i beni a strutture riceventi.</p>
+      </div>
+      <div class="card-footer">
+        <small class="text-muted">VRP + finestre temp. &middot; OSM / open data &middot; Python / OR-Tools</small>
+      </div>
+    </div>
+  </div>
 
 </div>

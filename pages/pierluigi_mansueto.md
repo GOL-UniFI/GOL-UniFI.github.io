@@ -41,6 +41,11 @@ title: Pierluigi Mansueto
     <h2>Publications</h2>
     <ol>
         <li>
+        <strong>A nonmonotone front descent method for bound-constrained multi-objective optimization.</strong><br>
+        P. Mansueto.<br>
+        <em> Computational Optimization and Applications</em> (2026). DOI: <a href="https://doi.org/10.1007/s10589-026-00822-z">10.1007/s10589-026-00822-z</a>
+        </li>
+        <li>
         <strong>Efficient Globalization of Heavy-Ball Type Methods for Unconstrained Optimization Based on Curve Searches.</strong><br>
         F. Donnini, M. Lapucci, P. Mansueto.<br>
         <em> Journal of Optimization Theory and Applications</em> (2026). DOI: <a href="https://doi.org/10.1007/s10957-026-03035-w">10.1007/s10957-026-03035-w</a>
@@ -123,14 +128,14 @@ title: Pierluigi Mansueto
     <h2>Preprints</h2>
     <ol>
         <li>
+        <strong>Nonconvex optimization methods for ground states in disordered continuous-spin models.</strong><br>
+        R. Agrawal, L. Ciarpaglini, P. Mansueto, E. Marinari, M. Sciandrone, D. Scuppa, E. Trasatti.<br>
+        <em>ArXiv pre-print</em> (2026). DOI: <a href="https://doi.org/10.48550/arXiv.2605.05070">10.48550/arXiv.2605.05070</a>
+        </li>
+        <li>
         <strong>A heavy-ball type curve search method for smooth convexly constrained optimization.</strong><br>
         F. Donnini, P. Mansueto.<br>
         <em>ArXiv pre-print</em> (2025). DOI: <a href="https://doi.org/10.48550/arXiv.2603.19032">10.48550/arXiv.2603.19032</a>
-        </li>
-        <li>
-        <strong>A Nonmonotone Front Descent Method for Bound-Constrained Multi-Objective Optimization.</strong><br>
-        P. Mansueto.<br>
-        <em>ArXiv pre-print</em> (2025). DOI: <a href="https://doi.org/10.48550/arXiv.2509.02409">10.48550/arXiv.2509.02409</a>
         </li>
     </ol>
     </section>

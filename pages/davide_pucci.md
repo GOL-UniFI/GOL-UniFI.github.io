@@ -40,6 +40,12 @@ title: Davide Pucci
         <h2>Publications</h2>
         <ol>
           <li>
+            <strong> Sample-wise Constrained Learning via a Sequential Penalty Approach with Applications in Image Processing.</strong><br>
+            F. Lanzillotta, C. Albisani, D. Pucci, D. Baracchi, A. Piva, M. Lapucci.<br>
+            <em>Transactions on Machine Learning Research</em> (2026). url: 
+            <a href="https://openreview.net/forum?id=Xi1UWSFooI">openreview.net/forum?id=Xi1UWSFooI</a>
+          </li>
+          <li>
             <strong> Effective Front-Descent Algorithms with Convergence Guarantees.</strong><br>
             M. Lapucci, P. Mansueto, D. Pucci.<br>
             <em>SIAM Journal on Optimization</em> (2026). DOI: 
@@ -91,16 +97,16 @@ title: Davide Pucci
         </ol>
       </section>
 
-      <section class="preprints">
+      <!-- <section class="preprints">
         <h2>Preprints</h2>
         <ol>
           <li>
-          <strong> Sample-wise Constrained Learning via a Sequential Penalty Approach with Applications in Image Processing.</strong><br>
-          F Lanzillotta, C Albisani, D Pucci, D Baracchi, A Piva, M Lapucci.<br>
-          <em>arXiv pre-print</em> (2026). <a href="https://arxiv.org/abs/2601.16812">arXiv:2601.16812</a>
+          <strong> TITLE.</strong><br>
+          Authors <br>
+          <em>arXiv pre-print</em> (2026). <a href="https://arxiv.org">arXiv:xxxx.xxxx</a>
           </li>
         </ol>
-      </section>
+      </section> -->
 
       <section class="contacts">
         <h2>Contacts</h2>

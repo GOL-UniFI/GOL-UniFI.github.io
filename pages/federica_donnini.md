@@ -38,29 +38,33 @@ title: Federica Donnini
     <section class="publications">
     <h2>Publications</h2>
     <ol>
+    <li>
+        <strong>Efficient Globalization of Heavy-Ball Type Methods for Unconstrained Optimization Based on Curve Searches.</strong><br>
+    F. Donnini, M. Lapucci, P. Mansueto.<br>
+    <em> Journal of Optimization Theory and Applications</em> (2026). DOI: <a href="https://doi.org/10.1007/s10957-026-03035-    w">10.1007/s10957-026-03035-w</a>
+    </li>
     </ol>
     </section>
 
     <section class="preprints">
     <h2>Preprints</h2>
     <ol>
-        <li>
-        <strong>Efficient globalization of heavy-ball type methods for unconstrained optimization based on curve searches.</strong><br>
-        F. Donnini, M. Lapucci, P. Mansueto.<br>
-        <em>ArXiv pre-print</em> (2025). DOI: <a href="https://doi.org/10.48550/arXiv.2505.19705">10.48550/arXiv.2505.19705</a>
-        </li>
+    <li>
+    <strong>A heavy-ball type curve search method for smooth convexly constrained optimization.</strong><br>
+    F. Donnini, P. Mansueto.<br>
+    <em>ArXiv pre-print</em> (2025). DOI: <a href="https://doi.org/10.48550/arXiv.2603.19032">10.48550/arXiv.2603.19032</a>
+    </li>
+    <li>
+    <strong>K-adaptability for two-stage stochastic optimization.</strong><br>
+    F. Donnini, M. De Santis, J. Kurtz.<br>
+    <em>Optimization Online pre-print</em> (2025). DOI: <a href="https://optimization-online.org/?p=32681">optimization-online.org/?p=32681</a>
+    </li>
 
-        <li>
-        <strong>K-adaptability for two-stage stochastic optimization.</strong><br>
-        F. Donnini, M. De Santis, J. Kurtz.<br>
-        <em>Optimization Online pre-print</em> (2025). DOI: <a href="https://optimization-online.org/?p=32681">optimization-online.org/?p=32681</a>
-        </li>
-
-        <li>
-        <strong>Heuristics for two-stage stochastic K-adaptability.</strong><br>
-        M. De Santis, F. Donnini.<br>
-        <em>Optimization Online pre-print</em> (2026). DOI: <a href="https://optimization-online.org/?p=33450">optimization-online.org/?p=33450</a>
-        </li>
+    <li>
+    <strong>Heuristics for two-stage stochastic K-adaptability.</strong><br>
+    M. De Santis, F. Donnini.<br>
+    <em>Optimization Online pre-print</em> (2026). DOI: <a href="https://optimization-online.org/?p=33450">optimization-online.org/?p=33450</a>
+    </li>
     </ol>
     </section>
 
@@ -68,6 +72,9 @@ title: Federica Donnini
       <section class="talks">
         <h2>Talks</h2>
         <ul>
+        <li><a href="https://umi.dm.unibo.it/terzo-dottorandi/">III Meeting UMI for Doctoral Students, Florence<a/> — A curve-search globalization strategy for nonlinear optimization algorithms</li>
+        
+        <li><a href="https://www.siam.org/conferences-events/siam-conferences/op26/">SIAM OP26, Edinburgh</a> — A Partition-Based Method for K-Adaptability in Two-Stage Stochastic Mixed Integer Optimization</li>
 
         <li>
         <a href="https://ayw2026.github.io/">AIROYoung Workshop 2026, Padova</a> — Heuristics for two-stage stochastic 𝐾-adaptability

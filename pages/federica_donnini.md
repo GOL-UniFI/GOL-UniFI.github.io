@@ -41,7 +41,7 @@ title: Federica Donnini
     <li>
         <strong>Efficient Globalization of Heavy-Ball Type Methods for Unconstrained Optimization Based on Curve Searches.</strong><br>
     F. Donnini, M. Lapucci, P. Mansueto.<br>
-    <em> Journal of Optimization Theory and Applications</em> (2026). DOI: <a href="https://doi.org/10.1007/s10957-026-03035-    w">10.1007/s10957-026-03035-w</a>
+    <em> Journal of Optimization Theory and Applications</em> (2026). DOI: <a href="https://link.springer.com/article/10.1007/s10957-026-03035-w">10.1007/s10957-026-03035-w</a>
     </li>
     </ol>
     </section>

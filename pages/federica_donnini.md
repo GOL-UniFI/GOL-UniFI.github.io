@@ -50,6 +50,12 @@ title: Federica Donnini
     <h2>Preprints</h2>
     <ol>
     <li>
+    <strong>Signed Budget Uncertainty for Robust Mixed-Integer Optimization.</strong><br>
+    D. Bertsimas, D. de Moor, D. den Hertog, F. Donnini.<br>
+    <em>Optimization Online pre-print</em> (2026). DOI: <a href="https://optimization-online.org/?p=37065">optimization-online.org/?p=37065</a>
+    </li>
+    
+    <li>
     <strong>A heavy-ball type curve search method for smooth convexly constrained optimization.</strong><br>
     F. Donnini, P. Mansueto.<br>
     <em>ArXiv pre-print</em> (2026). DOI: <a href="https://doi.org/10.48550/arXiv.2603.19032">10.48550/arXiv.2603.19032</a>

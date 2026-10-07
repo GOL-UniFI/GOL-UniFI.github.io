@@ -64,10 +64,10 @@ team:
   - name: Francesco Bellezza
     img: /img/people/Bellezza.jpg
     desc: Phd Student
-    website:
-    url:  
-    github:   
-    linkedin:  
+    website: /pages/francesco_bellezza/
+    url: /pages/francesco_bellezza  
+    github: https://github.com/MasterHope   
+    linkedin: https://www.linkedin.com/in/francesco-bellezza-927083341
     
   - name: Federica Donnini
     img: /img/people/donnini.jpg

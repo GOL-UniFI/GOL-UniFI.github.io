@@ -73,7 +73,7 @@ permalink: /pages/theses/mansueto_proposals/
     <div class="card h-100">
       <div class="card-body">
         <span class="badge badge-success mb-2">Green Logistics</span>
-        <span class="badge badge-warning mb-2">In corso</span>
+        <span class="badge badge-warning mb-2">Conclusa</span>
         <h5 class="card-title">Carbon-aware Vehicle Routing</h5>
         <p class="card-text">Il trasporto merci urbano è responsabile di una quota rilevante delle emissioni di CO₂, e la crescente attenzione agli obiettivi ESG ha spinto aziende e municipalità a ripensare la logistica. La tesi affronta il Green VRP: dopo una rassegna della letteratura, lo studente formulerà un modello MIP che minimizza il costo dei percorsi soggetto a un vincolo di budget sulle emissioni, applicandolo a una piccola istanza con analisi di sensitività sul budget ambientale.</p>
       </div>
@@ -87,7 +87,7 @@ permalink: /pages/theses/mansueto_proposals/
     <div class="card h-100">
       <div class="card-body">
         <span class="badge badge-primary mb-2">Mobilità elettrica</span>
-        <span class="badge badge-warning mb-2">In corso</span>
+        <span class="badge badge-warning mb-2">Conclusa</span>
         <h5 class="card-title">Electric Vehicle Routing Problem</h5>
         <p class="card-text">La diffusione di flotte elettriche introduce nel routing un vincolo nuovo: l'autonomia limitata della batteria e la necessità di pianificare soste di ricarica. La tesi esamina la letteratura sull'E-VRP, formula il modello MIP con variabili di stato della batteria e stazioni come nodi aggiuntivi del grafo, e lo applica a istanze standard con analisi di sensitività sull'autonomia e sul numero di stazioni.</p>
       </div>
@@ -105,7 +105,7 @@ permalink: /pages/theses/mansueto_proposals/
     <div class="card h-100">
       <div class="card-body">
         <span class="badge badge-danger mb-2">Humanitarian Logistics</span>
-        <span class="badge badge-warning mb-2">In corso</span>
+        <span class="badge badge-warning mb-2">Conclusa</span>
         <h5 class="card-title">Distribuzione di aiuti in contesti post-disastro</h5>
         <p class="card-text">Terremoti, alluvioni e conflitti generano picchi improvvisi di domanda di beni essenziali in aree con infrastrutture danneggiate. La tesi esamina la letteratura sulla logistica umanitaria, formula un modello MIP che minimizza il costo di distribuzione soggetto a vincoli di copertura minima della domanda, e lo applica a un caso ispirato a un'emergenza recente usando dati OCHA/WFP.</p>
       </div>
@@ -120,7 +120,7 @@ permalink: /pages/theses/mansueto_proposals/
       <div class="card-body">
         <div class="d-flex align-items-center mb-2">
           <span class="badge badge-success mb-2">Energia</span>
-          <span class="badge badge-warning mb-2">In corso</span>
+          <span class="badge badge-warning mb-2">Conclusa</span>
         </div>
         <h5 class="card-title">Ottimizzazione di una Comunità Energetica Rinnovabile (CER)</h5>
         <p class="card-text">Le CER sono state introdotte in Italia con il D.Lgs. 199/2021 e rese operative dalle regole GSE del 2024. La tesi formula un modello MIP per decidere ora per ora quando caricare e scaricare il sistema di accumulo e quanto energia scambiare con la rete, minimizzando il costo netto. Il modello viene calibrato su dati reali e analizzato al variare della capacità del sistema di accumulo.</p>
@@ -140,7 +140,7 @@ permalink: /pages/theses/mansueto_proposals/
     <div class="card-body">
       <div class="d-flex align-items-center mb-2">
           <span class="badge badge-warning mb-2">Smart Grid</span>
-          <span class="badge badge-warning mb-2">In corso</span>
+          <span class="badge badge-warning mb-2">Conclusa</span>
       </div>
       <h5 class="card-title">EV Charging Scheduling</h5>
       <p class="card-text">La ricarica non coordinata di veicoli elettrici rischia di generare picchi di domanda che stressano le reti di distribuzione. La tesi formula un modello MIP che decide quando e quanto ricaricare ciascun veicolo rispettando i vincoli di capacità delle colonnine e della rete, applicandolo a un piccolo caso numerico con analisi di sensitività sul numero di colonnine e sul profilo tariffario.</p>
@@ -156,7 +156,7 @@ permalink: /pages/theses/mansueto_proposals/
       <div class="card-body">
         <div class="d-flex align-items-center mb-2">
           <span class="badge badge-warning mb-2">Logistica solidale</span>
-          <span class="badge badge-warning mb-2">In corso</span>
+          <span class="badge badge-warning mb-2">Conclusa</span>
         </div>
         <h5 class="card-title">Raccolta e distribuzione di eccedenze alimentari</h5>
         <p class="card-text">Supermercati e mense producono ogni giorno eccedenze che potrebbero raggiungere famiglie in difficoltà, ma la logistica del recupero è complessa per via delle finestre temporali strette. La tesi formula il problema come VRP con finestre temporali, minimizzando la distanza percorsa da un veicolo che visita punti di raccolta e consegna i beni a strutture riceventi.</p>

@@ -59,6 +59,17 @@ communities.
 
         <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12" style="text-align: center; margin-bottom: 40px;">
             <figure>
+                <img src="/img/logos/LOGO-RPA-scaled.png" alt="" style="text-align: center; width: 100%; max-width: 400px;">
+            </figure>
+            <strong style="color: #4A99E9;">Study and Experimentation of Large Language Models for Supporting the Preparation of Legal Documents</strong><br>
+            <div style="text-align:left;">
+            The project was done in collaboration with Rossiprodi Associati and involved preliminary study and research into potential Multi-Agent LLM architectures capable of automating the drafting of legal documents from heterogeneous data.
+            <a href="https://www.rossiprodi.it/">[Read more about Rossiprodi Associati.]
+                </div>
+        </div>
+
+        <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12" style="text-align: center; margin-bottom: 40px;">
+            <figure>
                 <img src="/img/logos/airc.jpg" alt="" style="text-align: center; width: 100%; max-width: 400px;">
             </figure>
             <strong style="color: #4A99E9;">AIRC 2021</strong><br>

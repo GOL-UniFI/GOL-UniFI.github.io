@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Research Projects
+full-width: true
 ---
 
 <!-- subtitle: X  -->
@@ -54,10 +55,7 @@ communities.
 <br>
 <div class="row ">
 
-<div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
-    <div style="text-align: center">
-
-        <div style="margin-bottom: 40px;">
+        <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12" style="text-align: center; margin-bottom: 40px;">
             <figure>
                 <img src="/img/logos/airc.jpg" alt="" style="text-align: center; width: 100%;">
             </figure>
@@ -67,7 +65,7 @@ communities.
                 </div>
         </div>
 
-        <div style="margin-bottom: 40px;">
+        <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12" style="text-align: center; margin-bottom: 40px;">
             <div class="row d-flex align-items-center">
                 <div class="col-lg-6 col-md-6 col-sm-12 text-center">
                     <figure>
@@ -87,7 +85,7 @@ communities.
             </div>
         </div>
 
-        <div style="margin-bottom: 40px;">
+        <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12" style="text-align: center; margin-bottom: 40px;">
             <figure>
                 <img src="/img/logos/seafactory.jpg" alt="" class="img-fluid" style="max-width: 200px;">
             </figure>
@@ -98,7 +96,7 @@ communities.
             </div>
         </div>
         
-        <div style="margin-bottom: 40px;">
+        <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12" style="text-align: center; margin-bottom: 40px;">
             <figure>
                 <img src="/img/logos/siimobility.jpg" alt="" style="text-align: center; max-width: 100%;">
             </figure>
@@ -108,11 +106,6 @@ communities.
                 <br><a href="/pages/projects/sii_mobility/">[Read more about the Sii Mobility project.]</a> 
             </div>
         </div>
-
-    </div>
-</div>
- 
-
 
 <!--
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">

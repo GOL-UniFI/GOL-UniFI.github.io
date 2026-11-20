@@ -6,6 +6,8 @@ full-width: true
 
 <!-- subtitle: X  -->
 
+<div class="container" markdown="1">
+
 # Ongoing research projects 
 <br>
 <div class="row ">
@@ -15,7 +17,7 @@ full-width: true
 <div style="text-align: center">
 <figure>
     <img src="/img/logos/MORFO.png"
-         alt="" style="text-align: center; width: 100%;">
+         alt="" style="text-align: center; width: 100%; max-width: 400px;">
     <figcaption></figcaption>
 </figure>
 <div><strong style="color: #4A99E9;">ML4DAC: Machine Learning and Optimization Methods for the Design of Aerodynamic Components Leveraging Industrial Data Lakes</strong><br>
@@ -57,7 +59,7 @@ communities.
 
         <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12" style="text-align: center; margin-bottom: 40px;">
             <figure>
-                <img src="/img/logos/airc.jpg" alt="" style="text-align: center; width: 100%;">
+                <img src="/img/logos/airc.jpg" alt="" style="text-align: center; width: 100%; max-width: 400px;">
             </figure>
             <strong style="color: #4A99E9;">AIRC 2021</strong><br>
             <div style="text-align:left;">
@@ -128,5 +130,7 @@ communities.
 -->
 
 
+
+</div>
 
 </div>
